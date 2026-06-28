@@ -13,15 +13,17 @@
 
 **Core product/service flow:**
 
-```
-Raw materials (polysilicon, steel, lithium)
-  → Component manufacturing (cells, modules, blades, nacelles, electrolyzers)
-    → Systems integration (inverters, transformers, BoS)
-      → EPC / project construction
-        → Asset ownership & operation (IPP / developer)
-          → Power sale (PPA / merchant / open access)
-            → Transmission & distribution (ISTS / SLDC)
-              → End consumer (DISCOM, C&I, household)
+```mermaid
+flowchart LR
+    A["🪨 Raw Materials"] --> B["⚙️ Component Manufacturing"] --> C["🔧 Systems Integration"] --> D["🏗️ EPC Construction"] --> E["☀️ Asset Ownership and Operation"] --> F["💰 Power Sale"] --> G["🔌 Transmission and Distribution"] --> H["👤 End Consumer"]
+    style A fill:#1e293b,stroke:#64748b,color:#e2e8f0
+    style B fill:#1e3a5f,stroke:#3b82f6,color:#bfdbfe
+    style C fill:#14532d,stroke:#22c55e,color:#bbf7d0
+    style D fill:#713f12,stroke:#f59e0b,color:#fef3c7
+    style E fill:#3b0764,stroke:#a855f7,color:#e9d5ff
+    style F fill:#fee2e2,stroke:#ef4444
+    style G fill:#ffedd5,stroke:#f97316
+    style H fill:#f0fdf4,stroke:#16a34a
 ```
 
 **End customers and what they value:**
@@ -517,16 +519,16 @@ flowchart LR
     SUPPORT -.-> MS
     SUPPORT -.-> SV
 
-    style IL fill:#dbeafe,stroke:#3b82f6
-    style OP fill:#dcfce7,stroke:#22c55e
-    style OL fill:#fef9c3,stroke:#eab308
-    style MS fill:#fce7f3,stroke:#ec4899
-    style SV fill:#ede9fe,stroke:#8b5cf6
-    style SUPPORT fill:#f8fafc,stroke:#94a3b8
-    style FI fill:#f1f5f9,stroke:#94a3b8
-    style HR fill:#f1f5f9,stroke:#94a3b8
-    style TD fill:#f1f5f9,stroke:#94a3b8
-    style PR fill:#f1f5f9,stroke:#94a3b8
+    style IL fill:#1e3a5f,stroke:#3b82f6,color:#bfdbfe
+    style OP fill:#14532d,stroke:#22c55e,color:#bbf7d0
+    style OL fill:#713f12,stroke:#f59e0b,color:#fef3c7
+    style MS fill:#831843,stroke:#ec4899,color:#fce7f3
+    style SV fill:#3b0764,stroke:#a855f7,color:#e9d5ff
+    style SUPPORT fill:#0f172a,stroke:#475569,color:#cbd5e1
+    style FI fill:#1e293b,stroke:#64748b,color:#e2e8f0
+    style HR fill:#1e293b,stroke:#64748b,color:#e2e8f0
+    style TD fill:#1e293b,stroke:#64748b,color:#e2e8f0
+    style PR fill:#1e293b,stroke:#64748b,color:#e2e8f0
 ```
 
 ### Margin capture by stage

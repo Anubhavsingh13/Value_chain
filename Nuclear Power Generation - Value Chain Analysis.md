@@ -10,11 +10,19 @@
 
 **Core product/service flow:**
 
-```
-Uranium Mining → Conversion & Enrichment → Fuel Fabrication → 
-Reactor Design & Engineering → Civil Construction → 
-Equipment Manufacturing → Plant Operation → 
-Electricity Generation → Transmission → End Customer
+```mermaid
+flowchart LR
+    A["⛏️ Uranium Mining"] --> B["🔬 Conversion\nEnrichment"] --> C["🏭 Fuel\nFabrication"] --> D["📐 Reactor Design\nEngineering"] --> E["🏗️ Civil\nConstruction"] --> F["⚙️ Equipment\nManufacturing"] --> G["🔧 Plant\nOperation"] --> H["⚡ Electricity\nGeneration"] --> I["🔌 Transmission"] --> J["👤 End Customer"]
+    style A fill:#1e293b,stroke:#64748b,color:#e2e8f0
+    style B fill:#1e3a5f,stroke:#3b82f6,color:#bfdbfe
+    style C fill:#1e3a5f,stroke:#3b82f6,color:#bfdbfe
+    style D fill:#14532d,stroke:#22c55e,color:#bbf7d0
+    style E fill:#14532d,stroke:#22c55e,color:#bbf7d0
+    style F fill:#14532d,stroke:#22c55e,color:#bbf7d0
+    style G fill:#713f12,stroke:#f59e0b,color:#fef3c7
+    style H fill:#713f12,stroke:#f59e0b,color:#fef3c7
+    style I fill:#831843,stroke:#ec4899,color:#fce7f3
+    style J fill:#3b0764,stroke:#a855f7,color:#e9d5ff
 ```
 
 **End customers and what they value most:** State electricity boards (SEBs), industrial consumers, and the national grid. They value baseload reliability (24×7 carbon-free power), price stability (no fuel price volatility unlike coal), and long-term energy security. Nuclear power is a "must-run" asset — dispatchability is its primary advantage over solar and wind.
@@ -409,16 +417,16 @@ flowchart LR
     SUPPORT -.-> MS
     SUPPORT -.-> SV
 
-    style IL fill:#dbeafe,stroke:#3b82f6
-    style OP fill:#dcfce7,stroke:#22c55e
-    style OL fill:#fef9c3,stroke:#eab308
-    style MS fill:#fce7f3,stroke:#ec4899
-    style SV fill:#ede9fe,stroke:#8b5cf6
-    style SUPPORT fill:#f8fafc,stroke:#94a3b8
-    style FI fill:#f1f5f9,stroke:#94a3b8
-    style HR fill:#f1f5f9,stroke:#94a3b8
-    style TD fill:#f1f5f9,stroke:#94a3b8
-    style PR fill:#f1f5f9,stroke:#94a3b8
+    style IL fill:#1e3a5f,stroke:#3b82f6,color:#bfdbfe
+    style OP fill:#14532d,stroke:#22c55e,color:#bbf7d0
+    style OL fill:#713f12,stroke:#f59e0b,color:#fef3c7
+    style MS fill:#831843,stroke:#ec4899,color:#fce7f3
+    style SV fill:#3b0764,stroke:#a855f7,color:#e9d5ff
+    style SUPPORT fill:#0f172a,stroke:#475569,color:#cbd5e1
+    style FI fill:#1e293b,stroke:#64748b,color:#e2e8f0
+    style HR fill:#1e293b,stroke:#64748b,color:#e2e8f0
+    style TD fill:#1e293b,stroke:#64748b,color:#e2e8f0
+    style PR fill:#1e293b,stroke:#64748b,color:#e2e8f0
 ```
 
 ### Margin capture by stage
