@@ -390,3 +390,56 @@ The Blue Ocean opportunity lies in **Tier-II city AI infrastructure for domestic
 ---
 
 *Sources: Rupeezy, Equitymaster, Dhan.co, Wright Research, TradeBrains, DataCenter Dynamics, DataCenter Knowledge, IEEFA, CEEW, S&P Global, KPMG India, BusinessWire/ResearchAndMarkets, GlobeNewsWire, DataCentreMagazine, Blackridge Research, Mordor Intelligence, Upstox, Screener.in, Business Standard, FilterCoffee, ScanX Trade, IMARC Group, Systemiq, Takshashila Institution, Computer Weekly, Singularity AMC, Lowy Institute, NextMSC, MarkNtel Advisors, KenResearch, Tata Communications press releases, ICRA, CBInsights, Mind2Markets, Whalesbook, DeepDiveCaps.*
+
+---
+
+## 8. Value Chain Diagram
+
+```mermaid
+flowchart LR
+    subgraph SUPPORT["⚙️ Support Activities"]
+        direction TB
+        FI["🏛️ Firm Infrastructure\n• NIIF co-investment\n• InvIT asset recycling\n• DC Economic Zones Policy\n• 20-yr tax exemption"]
+        HR["👥 HR Management\n• IITs and NITs pipeline\n• NASSCOM DC skills\n• Uptime Institute certifications\n• IndiaAI Mission talent"]
+        TD["🔬 Technology Dev\n• Netweb (NETWEB) HPC servers\n• L&T Technology Services (LTTS)\n• DCIM and liquid cooling R&D\n• NVIDIA DGX certification"]
+        PR["📦 Procurement\n• Cummins India (CUMMINSIND)\n• ABB India (ABB)\n• Adani Green Energy (ADANIGREEN)\n• KEI Industries (KEI)"]
+    end
+
+    subgraph PRIMARY["🔄 Primary Activities"]
+        direction LR
+        IL["📥 Inbound Logistics\n---\n• AdaniConneX (ADANIENT)\n• Tata Realty and Infrastructure\n• Anant Raj (ANANTRAJ)\n• L&T Construction (LT)\n• Embassy REIT"]
+        OP["⚙️ Operations\n---\n• Adani ConneX (ADANIENT)\n• Nxtra by Airtel (BHARTIARTL)\n• Sify Technologies (SIFY)\n• STT GDC India\n• E2E Networks (E2E)"]
+        OL["📤 Outbound Logistics\n---\n• Tata Communications (TATACOMM)\n• Bharti Airtel (BHARTIARTL)\n• Reliance Jio (RELIANCE)\n• Sterlite Technologies (STLTECH)"]
+        MS["📣 Marketing and Sales\n---\n• Equinix India (EQIX)\n• Sify Technologies (SIFY)\n• Adani ConneX (ADANIENT)\n• CtrlS Datacenters\n• NxtGen Datacenter"]
+        SV["🔧 Service\n---\n• Tata Communications (TATACOMM)\n• Sify Technologies (SIFY)\n• E2E Networks (E2E)\n• HCL Technologies (HCLTECH)\n• Netweb Technologies (NETWEB)"]
+    end
+
+    IL --> OP --> OL --> MS --> SV
+
+    SUPPORT -.-> IL
+    SUPPORT -.-> OP
+    SUPPORT -.-> OL
+    SUPPORT -.-> MS
+    SUPPORT -.-> SV
+
+    style IL fill:#dbeafe,stroke:#3b82f6
+    style OP fill:#dcfce7,stroke:#22c55e
+    style OL fill:#fef9c3,stroke:#eab308
+    style MS fill:#fce7f3,stroke:#ec4899
+    style SV fill:#ede9fe,stroke:#8b5cf6
+    style SUPPORT fill:#f8fafc,stroke:#94a3b8
+    style FI fill:#f1f5f9,stroke:#94a3b8
+    style HR fill:#f1f5f9,stroke:#94a3b8
+    style TD fill:#f1f5f9,stroke:#94a3b8
+    style PR fill:#f1f5f9,stroke:#94a3b8
+```
+
+### Margin capture by stage
+
+| Stage | Margin Level | Primary Capturer |
+|---|---|---|
+| Inbound Logistics | Low | Land developers and civil contractors (Adani, L&T) — thin margins on site acquisition and construction |
+| Operations | Medium | DC operators (Sify, Nxtra, STT GDC) — EBITDA margins 20–35% at scale but capex-heavy |
+| Outbound Logistics | Medium-High | Tata Communications — fiber and connectivity commands 19–22% EBITDA margin with recurring revenue |
+| Marketing and Sales | High | Equinix India — interconnection-rich colocation commands premium rack pricing; hyperscale pre-lease deals at contracted MW rates |
+| Service | High | E2E Networks and Sify — GPU-as-a-Service and managed AI services deliver 3–5x revenue per watt vs bare colocation |

@@ -377,3 +377,56 @@ The first mover in building a large pool of NPCIL-qualified nuclear engineers, r
 - [Nuclear Power Stocks 2026 — TickerTape](https://www.tickertape.in/stocks/collections/nuclear-power-stocks)
 - [Nuclear Energy Stocks India — Pocketful](https://www.pocketful.in/blog/top-nuclear-energy-stocks-in-india/)
 - [India's $214B Nuclear Opening — Nuclear Business Platform](https://www.nuclearbusiness-platform.com/media/insights/india-nuclear-shanti)
+
+---
+
+## 8. Value Chain Diagram
+
+```mermaid
+flowchart LR
+    subgraph SUPPORT["⚙️ Support Activities"]
+        direction TB
+        FI["🏛️ Firm Infrastructure\n• DAE / AERB\n• Ministry of Power / CERC\n• SHANTI Act 2025 framework"]
+        HR["👥 HR Management\n• BARC Training School\n• HBNI (Homi Bhabha Nat. Inst.)\n• IIT Kanpur / Bombay / Kharagpur"]
+        TD["🔬 Technology Dev\n• BARC (reactor design)\n• IGCAR (fast reactor)\n• Holtec International (SMR JV)"]
+        PR["📦 Procurement\n• L&T Heavy Engg (LT)\n• MIDHANI (MIDHANI)\n• MTAR Technologies (MTARTECH)"]
+    end
+
+    subgraph PRIMARY["🔄 Primary Activities"]
+        direction LR
+        IL["📥 Inbound Logistics\n---\n• UCIL (uranium mining)\n• NFC Hyderabad (fuel fab)\n• IREL (thorium)\n• NTPC overseas uranium (NTPC)"]
+        OP["⚙️ Operations\n---\n• NPCIL (reactor operator)\n• BHEL turbine island (BHEL)\n• L&T reactor equip (LT)\n• MEIL Kaiga EPC\n• ASHVINI JV (NTPC-NPCIL)"]
+        OL["📤 Outbound Logistics\n---\n• Power Grid Corp (POWERGRID)\n• State utilities (MSEDCL etc.)\n• NLDC / POSOCO (grid dispatch)"]
+        MS["📣 Marketing & Sales\n---\n• NPCIL (regulated seller)\n• Ministry of Power / CERC\n• IEX (future marketplace) (IEX)\n• State DISCOMs (beneficiaries)"]
+        SV["🔧 Service\n---\n• NPCIL in-house O&M\n• BARC (R&D support)\n• ECIL (instrumentation)\n• MTAR Technologies (MTARTECH)"]
+    end
+
+    IL --> OP --> OL --> MS --> SV
+
+    SUPPORT -.-> IL
+    SUPPORT -.-> OP
+    SUPPORT -.-> OL
+    SUPPORT -.-> MS
+    SUPPORT -.-> SV
+
+    style IL fill:#dbeafe,stroke:#3b82f6
+    style OP fill:#dcfce7,stroke:#22c55e
+    style OL fill:#fef9c3,stroke:#eab308
+    style MS fill:#fce7f3,stroke:#ec4899
+    style SV fill:#ede9fe,stroke:#8b5cf6
+    style SUPPORT fill:#f8fafc,stroke:#94a3b8
+    style FI fill:#f1f5f9,stroke:#94a3b8
+    style HR fill:#f1f5f9,stroke:#94a3b8
+    style TD fill:#f1f5f9,stroke:#94a3b8
+    style PR fill:#f1f5f9,stroke:#94a3b8
+```
+
+### Margin capture by stage
+
+| Stage | Margin Level | Primary Capturer |
+|---|---|---|
+| Inbound Logistics | Low | UCIL (state cost-plus mining); NFC (cost-plus fabrication) |
+| Operations | High | NPCIL (regulated ~30–35% EBITDA); BHEL and L&T at 6–15% on equipment |
+| Outbound Logistics | High | Power Grid Corp (regulated ~55% EBITDA on transmission tariffs) |
+| Marketing & Sales | Low | NPCIL (CERC-regulated tariff ~₹3.5–4.5/kWh; no commercial pricing power) |
+| Service | Medium | NPCIL in-house; MTAR Technologies earns ~18–20% EBITDA on precision components |

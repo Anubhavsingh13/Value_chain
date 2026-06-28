@@ -577,3 +577,56 @@ India's EMS ambition will be constrained by a shortage of IPC-certified technici
 ---
 
 *Analysis prepared using Porter's Value Chain (1985), Porter's Five Forces (1980), Gereffi's Global Value Chain framework (2018), and Kim & Mauborgne's Blue Ocean Strategy (2004). Data sourced from company earnings releases, MeitY/DPIIT official communications, HDFC Securities EMS Sector Thematic (April 2026), and verified media sources. All financial figures are in Indian Rupees (₹) unless otherwise noted. FY = Indian Financial Year (April–March).*
+
+---
+
+## 8. Value Chain Diagram
+
+```mermaid
+flowchart LR
+    subgraph SUPPORT["Support Activities"]
+        direction TB
+        FI["Firm Infrastructure\n• MeitY\n• BIS (65+ product categories)\n• DPIIT (PLI administration)\n• ICEA / ELCINA"]
+        HR["HR Management\n• IITs (Madras, Bombay, Delhi)\n• CTTC Bhubaneswar\n• ESSCI (Electronics Sector Skills)"]
+        TD["Technology Dev\n• Kaynes Technology (design centre)\n• Syrma SGS (design services)\n• C-DAC\n• SAMEER / ECIL (defence RandD)"]
+        PR["Procurement\n• Arrow / Avnet (global distributors)\n• TSMC / Samsung Semi (ICs, captive)\n• Murata / TDK (passives)\n• ECMS-funded domestic suppliers"]
+    end
+
+    subgraph PRIMARY["Primary Activities"]
+        direction LR
+        IL["Inbound Logistics\n---\n• Dixon Technologies (DIXON)\n• Kaynes Technology (KAYNES)\n• Amber Enterprises (AMBER)\n• Foxconn India (unlisted)\n• Tata Electronics (unlisted)"]
+        OP["Operations\n---\n• Dixon Technologies (DIXON)\n• Kaynes Technology (KAYNES)\n• Amber Enterprises (AMBER)\n• Syrma SGS (SYRMA)\n• PG Electroplast (PGEL)"]
+        OL["Outbound Logistics\n---\n• Redington India (REDINGTON)\n• Delhivery (DELHIVERY)\n• TVS Supply Chain (TVSSCS)\n• DHL / Blue Dart (unlisted)\n• Mahindra Logistics (unlisted)"]
+        MS["Marketing and Sales\n---\n• Dixon Technologies (DIXON)\n• Kaynes Technology (KAYNES)\n• BEL (BEL)\n• Optiemus Electronics (OPTIEMUS)\n• Netweb Technologies (NETWEB)"]
+        SV["After-Sales Service\n---\n• Redington India (REDINGTON)\n• Dixon Technologies (DIXON)\n• Amber Enterprises (AMBER)\n• Elin Electronics (ELIN)\n• Avalon Technologies (AVALON)"]
+    end
+
+    IL --> OP --> OL --> MS --> SV
+
+    SUPPORT -.-> IL
+    SUPPORT -.-> OP
+    SUPPORT -.-> OL
+    SUPPORT -.-> MS
+    SUPPORT -.-> SV
+
+    style IL fill:#dbeafe,stroke:#3b82f6
+    style OP fill:#dcfce7,stroke:#22c55e
+    style OL fill:#fef9c3,stroke:#eab308
+    style MS fill:#fce7f3,stroke:#ec4899
+    style SV fill:#ede9fe,stroke:#8b5cf6
+    style SUPPORT fill:#f8fafc,stroke:#94a3b8
+    style FI fill:#f1f5f9,stroke:#94a3b8
+    style HR fill:#f1f5f9,stroke:#94a3b8
+    style TD fill:#f1f5f9,stroke:#94a3b8
+    style PR fill:#f1f5f9,stroke:#94a3b8
+```
+
+### Margin capture by stage
+
+| Stage | Margin Level | Primary Capturer |
+|---|---|---|
+| Inbound Logistics | Low | Global component oligopolists (TSMC, Samsung Semi, Murata) capture 30-60% gross margin; Indian EMS players are price-takers |
+| Operations | Low-Medium (3-8% EBITDA for commodity EMS; 12-18% for complex/high-reliability EMS) | Kaynes Technology and Avalon (complex EMS); Dixon and Amber (commodity EMS) |
+| Outbound Logistics | Low-Medium | Redington (distribution margin); 3PLs (2-5% of revenue); SEZ/FTWZ players capture duty arbitrage |
+| Marketing and Sales | Low (B2B EMS); Medium (B2C brands) | OEM customers set terms; BEL and defence EMS players earn better due to qualification moats |
+| After-Sales Service | Medium | Redington (after-sales distribution); warranty provision is a cost centre for most EMS players |

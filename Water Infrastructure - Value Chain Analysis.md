@@ -597,3 +597,56 @@ A second non-obvious insight: **the real competitive threat is not domestic EPC 
 ---
 
 *Analysis prepared June 2026. Sources: Va Tech Wabag FY26 Investor Meet; Ion Exchange India FY25 Annual Report; EMS Limited company filings; Welspun Enterprises FY25 Annual Report; Kirloskar Brothers FY25 Results; Praj Industries Q4 FY25 Results; Jal Jeevan Mission PIB data (October 2025); Budget 2025–26 JJM allocation data; AMRUT 2.0 progress reports (MoHUA, August 2025); Mordor Intelligence India Desalination Market Report 2025; India Water Portal Budget analysis; AngelOne water treatment sector report March 2025.*
+
+---
+
+## 8. Value Chain Diagram
+
+```mermaid
+flowchart LR
+    subgraph SUPPORT["Support Activities"]
+        direction TB
+        FI["Firm Infrastructure\n• Jal Shakti Ministry\n• NMCG\n• CPCB\n• IRFC (project bonds)"]
+        HR["HR Management\n• NEERI (CSIR)\n• IIT water research centres\n• CWRDM\n• National Water Mission"]
+        TD["Technology Dev\n• Va Tech Wabag (SBR/MBBR IP)\n• Ion Exchange (resin RandD)\n• Praj Industries (ZLD CoE)\n• Kritsnam Technologies (IoT)"]
+        PR["Procurement\n• Reliance Industries (PVC resin)\n• DuPont/Toray (RO membranes)\n• Dow/BASF (antiscalants)\n• Ion Exchange (captive resins)"]
+    end
+
+    subgraph PRIMARY["Primary Activities"]
+        direction LR
+        IL["Inbound Logistics\n---\n• Reliance (RELIANCE)\n• Electrosteel Castings (ELECTCAST)\n• Jindal Saw (JINDALSAW)\n• Ion Exchange (IONEXCHANG)\n• Thermax (THERMAX)"]
+        OP["Operations\n---\n• Va Tech Wabag (WABAG)\n• Ion Exchange (IONEXCHANG)\n• Welspun Enterprises (WELENT)\n• Praj Industries (PRAJIND)\n• Kirloskar Brothers (KIRLOSBROS)"]
+        OL["Outbound Logistics\n---\n• Va Tech Wabag (WABAG)\n• EMS Limited (EMSLIMITED)\n• Welspun Enterprises (WELENT)\n• Triveni Engineering (TRIVENI)\n• JUSCO (Tata, unlisted)"]
+        MS["Marketing and Sales\n---\n• Ion Exchange (IONEXCHANG)\n• Va Tech Wabag (WABAG)\n• Praj Industries (PRAJIND)\n• Finolex Industries (FINPIPE)\n• Astral Limited (ASTRAL)"]
+        SV["Service and OandM\n---\n• Va Tech Wabag (WABAG)\n• Ion Exchange (IONEXCHANG)\n• Thermax (THERMAX)\n• JUSCO (Tata, unlisted)\n• Suez India (unlisted)"]
+    end
+
+    IL --> OP --> OL --> MS --> SV
+
+    SUPPORT -.-> IL
+    SUPPORT -.-> OP
+    SUPPORT -.-> OL
+    SUPPORT -.-> MS
+    SUPPORT -.-> SV
+
+    style IL fill:#dbeafe,stroke:#3b82f6
+    style OP fill:#dcfce7,stroke:#22c55e
+    style OL fill:#fef9c3,stroke:#eab308
+    style MS fill:#fce7f3,stroke:#ec4899
+    style SV fill:#ede9fe,stroke:#8b5cf6
+    style SUPPORT fill:#f8fafc,stroke:#94a3b8
+    style FI fill:#f1f5f9,stroke:#94a3b8
+    style HR fill:#f1f5f9,stroke:#94a3b8
+    style TD fill:#f1f5f9,stroke:#94a3b8
+    style PR fill:#f1f5f9,stroke:#94a3b8
+```
+
+### Margin capture by stage
+
+| Stage | Margin Level | Primary Capturer |
+|---|---|---|
+| Inbound Logistics | Low | Commodity suppliers (steel, chemicals); RO membrane importers earn high margins but are foreign (DuPont, Toray) |
+| Operations | Medium (8-13% EBITDA for EPC; 12-18% for equipment OEMs) | Va Tech Wabag, Ion Exchange, Kirloskar Brothers, Finolex |
+| Outbound Logistics | Low | EPC contractors manage own commissioning; no standalone high-margin logistics player |
+| Marketing and Sales | Low-Medium | Primarily cost centre for B2G EPC; Ion Exchange earns better margins via ZeroB consumer brand |
+| Service and OandM | High (15-25% EBITDA) | Va Tech Wabag (O and M book), Ion Exchange (industrial O and M), JUSCO (municipal O and M) |

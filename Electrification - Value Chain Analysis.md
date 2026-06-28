@@ -613,3 +613,56 @@ India's entire electrification future — BESS for grid stability, EV batteries,
 
 ---
 *Report generated: June 28, 2026 | Analyst: Claude (Anthropic) | Version: 1.0*
+
+---
+
+## 8. Value Chain Diagram
+
+```mermaid
+flowchart LR
+    subgraph SUPPORT["⚙️ Support Activities"]
+        direction TB
+        FI["🏛️ Firm Infrastructure\n• PFC (PFC)\n• REC Limited (RECLTD)\n• EESL (unlisted PSU)\n• India Grid Trust (INDIGRID)"]
+        HR["👥 HR Management\n• NTTF (vocational training)\n• NSDC (PM Kaushal Vikas)\n• IIT Bombay / Delhi / Madras"]
+        TD["🔬 Technology Dev\n• Genus Power R&D (GENUSPOWER)\n• CPRI Bangalore\n• C-DAC (grid cybersecurity)\n• IIT Bombay power electronics lab"]
+        PR["📦 Procurement\n• Hindalco (copper / aluminium) (HINDALCO)\n• Vedanta / Sterlite (VEDL)\n• CATL / BYD (Li-ion cells imported)"]
+    end
+
+    subgraph PRIMARY["🔄 Primary Activities"]
+        direction LR
+        IL["📥 Inbound Logistics\n---\n• Hindalco Industries (HINDALCO)\n• Vedanta Ltd (VEDL)\n• Sterlite Copper (Vedanta sub)\n• Imported GOES / Li-ion cells\n• Imported MCUs / RF chips"]
+        OP["⚙️ Operations\n---\n• Polycab India (POLYCAB)\n• Siemens India (SIEMENS)\n• ABB India (ABB)\n• GE Vernova T&D (GET&D)\n• Genus Power (GENUSPOWER)"]
+        OL["📤 Outbound Logistics\n---\n• TCI (TCIL)\n• VRL Logistics (VRLLOG)\n• Mahindra Logistics (MAHLOG)\n• Polycab own fleet\n• ODC specialists (unlisted)"]
+        MS["📣 Marketing & Sales\n---\n• Polycab India (POLYCAB)\n• Havells India (HAVELLS)\n• KEI Industries (KEI)\n• ABB India (ABB)\n• Siemens India (SIEMENS)"]
+        SV["🔧 Service\n---\n• Tata Power EV charging (TATAPOWER)\n• Adani Energy Solutions (ADANIENSOL)\n• ABB India SCADA O&M (ABB)\n• Genus Power AMISP (GENUSPOWER)\n• IntelliSmart (EESL-Adani JV)"]
+    end
+
+    IL --> OP --> OL --> MS --> SV
+
+    SUPPORT -.-> IL
+    SUPPORT -.-> OP
+    SUPPORT -.-> OL
+    SUPPORT -.-> MS
+    SUPPORT -.-> SV
+
+    style IL fill:#dbeafe,stroke:#3b82f6
+    style OP fill:#dcfce7,stroke:#22c55e
+    style OL fill:#fef9c3,stroke:#eab308
+    style MS fill:#fce7f3,stroke:#ec4899
+    style SV fill:#ede9fe,stroke:#8b5cf6
+    style SUPPORT fill:#f8fafc,stroke:#94a3b8
+    style FI fill:#f1f5f9,stroke:#94a3b8
+    style HR fill:#f1f5f9,stroke:#94a3b8
+    style TD fill:#f1f5f9,stroke:#94a3b8
+    style PR fill:#f1f5f9,stroke:#94a3b8
+```
+
+### Margin capture by stage
+
+| Stage | Margin Level | Primary Capturer |
+|---|---|---|
+| Inbound Logistics | Low–Medium | Hindalco / Vedanta (commodity margins 8–12%); CATL / BYD capture high margin on Li-ion cells (15–25%) offshore |
+| Operations | Medium–High | ABB / Siemens / GE Vernova T&D (EHV / GIS: 15–22%); Genus Power AMISP (18–25%); cable makers (11–14%); distribution transformer MSMEs (4–8%) |
+| Outbound Logistics | Low | TCI, VRL, Mahindra Logistics (logistics margins 4–7%); ODC specialists earn modest project premiums |
+| Marketing & Sales | Medium | Polycab dealer network (brand premium, 13–14% EBITDA); institutional/tender sales thin (L1 pricing) |
+| Service | Medium–High | Adani Energy Solutions T&D asset O&M (~48% EBITDA regulated); AMISP / SCADA SaaS potential 30–45% gross margin |

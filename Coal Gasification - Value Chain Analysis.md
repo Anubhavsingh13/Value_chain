@@ -389,3 +389,56 @@ The **CGaaS model** is the most compelling blue ocean. It mimics the industrial 
 
 ---
 *Analysis date: June 2026*
+
+---
+
+## 8. Value Chain Diagram
+
+```mermaid
+flowchart LR
+    subgraph SUPPORT["⚙️ Support Activities"]
+        direction TB
+        FI["🏛️ Firm Infrastructure\n• Ministry of Coal\n• SBI / PFC / REC\n• MoEFCC / CPCB"]
+        HR["👥 HR Management\n• BHEL Training Centres\n• IIT Kharagpur\n• CIMFR Dhanbad"]
+        TD["🔬 Technology Dev\n• BHEL PFBG\n• Air Liquide India\n• IIT Bombay / CIMFR"]
+        PR["📦 Procurement\n• Air Products / Linde (ASU)\n• Orient Refractories (ORIENTREF)\n• Thermax (THERMAX)"]
+    end
+
+    subgraph PRIMARY["🔄 Primary Activities"]
+        direction LR
+        IL["📥 Inbound Logistics\n---\n• Coal India (COALINDIA)\n• SCCL (unlisted)\n• NMDC (NMDC)\n• Private washeries"]
+        OP["⚙️ Operations\n---\n• BHEL (BHEL)\n• L&T Heavy Engg (LT)\n• JSPL Angul (JINDALSTEL)\n• BCGCL (CIL-BHEL JV)\n• TFL Talcher (GAIL-RCF-CIL JV)"]
+        OL["📤 Outbound Logistics\n---\n• GAIL India (GAIL)\n• Indian Oil Corp (IOC)\n• NFL (NFL)\n• IFFCO (unlisted)"]
+        MS["📣 Marketing & Sales\n---\n• Dept of Fertilisers\n• IFFCO (unlisted)\n• Chambal Fertilisers (CHAMBLFERT)\n• RCF (RCF)\n• GSFC (GSFC)"]
+        SV["🔧 Service\n---\n• BHEL O&M\n• L&T LSTK services\n• Air Liquide India\n• Toyo Engineering India\n• PDIL (PSU)"]
+    end
+
+    IL --> OP --> OL --> MS --> SV
+
+    SUPPORT -.-> IL
+    SUPPORT -.-> OP
+    SUPPORT -.-> OL
+    SUPPORT -.-> MS
+    SUPPORT -.-> SV
+
+    style IL fill:#dbeafe,stroke:#3b82f6
+    style OP fill:#dcfce7,stroke:#22c55e
+    style OL fill:#fef9c3,stroke:#eab308
+    style MS fill:#fce7f3,stroke:#ec4899
+    style SV fill:#ede9fe,stroke:#8b5cf6
+    style SUPPORT fill:#f8fafc,stroke:#94a3b8
+    style FI fill:#f1f5f9,stroke:#94a3b8
+    style HR fill:#f1f5f9,stroke:#94a3b8
+    style TD fill:#f1f5f9,stroke:#94a3b8
+    style PR fill:#f1f5f9,stroke:#94a3b8
+```
+
+### Margin capture by stage
+
+| Stage | Margin Level | Primary Capturer |
+|---|---|---|
+| Inbound Logistics | Low | Coal India (regulated linkage pricing; commodity coal) |
+| Operations | Medium | BHEL, L&T (EPC margins 8–12%); JSPL (integrated steel margins ~22%) |
+| Outbound Logistics | Low | GAIL, IOC (pipeline/distribution tariffs; regulated) |
+| Marketing & Sales | Low–Medium | Fertiliser companies (thin margins; urea price-controlled at ₹242/bag) |
+| Service | Medium–High | Technology licensors (Air Liquide royalties); BHEL O&M contracts |

@@ -542,3 +542,56 @@ The highest-margin, most durable business model in the railways value chain is l
 ---
 
 *Sources: IRFC Annual Results FY25/FY26; Titagarh Rail Systems Investor Presentation Q3 & Q4 FY26; Texmaco Rail FY26 results; RVNL order book disclosures; RailTel FY25 Annual Report; DFCCIL project completion announcements; Ministry of Railways Budget Statement FY26; Business Standard; Trade Brains; Equitymaster; Wright Research; Railway Gazette International; Alstom press release Jan 2025.*
+
+---
+
+## 8. Value Chain Diagram
+
+```mermaid
+flowchart LR
+    subgraph SUPPORT["Support Activities"]
+        direction TB
+        FI["Firm Infrastructure\n• Ministry of Railways\n• IRFC (NSE: IRFC)\n• RDSO (standards and type-approval)\n• DFCCIL / RVNL / IRCON"]
+        HR["HR Management\n• IRICEN Pune (bridge/track)\n• IREEN Secunderabad (electrical)\n• IRISET Secunderabad (signalling)\n• IR Railway Training Institutes"]
+        TD["Technology Dev\n• Medha Servo Drives (Kavach/propulsion)\n• RDSO (ATP standards)\n• BHEL (traction electronics)\n• RailTel (AI predictive maintenance)"]
+        PR["Procurement\n• RDSO Approved Vendor List\n• IREPS (e-procurement portal)\n• GeM (Govt e-Marketplace)\n• World Bank/JICA (DFC tenders)"]
+    end
+
+    subgraph PRIMARY["Primary Activities"]
+        direction LR
+        IL["Inbound Logistics\n---\n• SAIL (SAIL)\n• JSPL (JSPL)\n• Tata Steel (TATASTEEL)\n• Hindalco (HINDALCO)\n• Sterlite/Birla Cables (OFC)"]
+        OP["Operations\n---\n• RVNL (RVNL)\n• BEML (BEML)\n• Titagarh Rail (TITAGARH)\n• KEC International (KEC)\n• Siemens India (SIEMENS)"]
+        OL["Outbound Logistics\n---\n• RVNL (RVNL)\n• IRCON (IRCON)\n• RITES (RITES)\n• Afcons Infrastructure (AFCONS)\n• NCC Limited (NCC)"]
+        MS["Marketing and Sales\n---\n• IRCTC (IRCTC)\n• RITES (RITES)\n• CONCOR (CONCOR)\n• Adani Logistics (ADANIPORTS)\n• RailTel (RAILTEL)"]
+        SV["Service and MRO\n---\n• RITES (RITES)\n• Siemens India (SIEMENS)\n• HBL Engineering (HBL)\n• IRCON (IRCON)\n• GATX India (unlisted)"]
+    end
+
+    IL --> OP --> OL --> MS --> SV
+
+    SUPPORT -.-> IL
+    SUPPORT -.-> OP
+    SUPPORT -.-> OL
+    SUPPORT -.-> MS
+    SUPPORT -.-> SV
+
+    style IL fill:#dbeafe,stroke:#3b82f6
+    style OP fill:#dcfce7,stroke:#22c55e
+    style OL fill:#fef9c3,stroke:#eab308
+    style MS fill:#fce7f3,stroke:#ec4899
+    style SV fill:#ede9fe,stroke:#8b5cf6
+    style SUPPORT fill:#f8fafc,stroke:#94a3b8
+    style FI fill:#f1f5f9,stroke:#94a3b8
+    style HR fill:#f1f5f9,stroke:#94a3b8
+    style TD fill:#f1f5f9,stroke:#94a3b8
+    style PR fill:#f1f5f9,stroke:#94a3b8
+```
+
+### Margin capture by stage
+
+| Stage | Margin Level | Primary Capturer |
+|---|---|---|
+| Inbound Logistics | Low-Medium (10-18% EBITDA for steel producers) | SAIL and JSPL (rail steel); Hindalco (aluminium extrusions); foreign suppliers capture high margins on traction electronics |
+| Operations | Low-Medium (7-12% EBITDA for EPC and rolling stock assembly; 15-22% for signalling/Kavach) | Siemens/Alstom (traction technology); Medha Servo Drives (Kavach); RVNL and IRCON (EPC at thin margins) |
+| Outbound Logistics | Low (8-12% of project cost for mobilisation and site logistics) | RVNL (project delivery); IRCON (cross-border delivery); RITES (inspection and quality assurance for exports) |
+| Marketing and Sales | High for monopoly plays; Low for commodity supply | IRCTC (approx 25% PAT margin on ticketing monopoly); CONCOR (container freight, 10-15%); commodity rolling stock suppliers earn thin margins |
+| Service and MRO | Medium-High (15-20% for DFC O and M; 20-30% for traction IP holders) | Siemens India (WDFC traction O and M); Alstom India (metro MRO); HBL Engineering (Kavach O and M) |

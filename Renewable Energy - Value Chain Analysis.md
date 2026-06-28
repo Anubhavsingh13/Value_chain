@@ -485,3 +485,56 @@ India's 283 GW RE asset base is generating operational data at scale — irradia
 - NTPC Renewable Energy Ltd — Green hydrogen vertical page (ntpcrel.co.in)
 - Mordor Intelligence — India Power EPC and BESS market reports
 - FactoData — India renewable energy capacity 2000–2026 data
+
+---
+
+## 8. Value Chain Diagram
+
+```mermaid
+flowchart LR
+    subgraph SUPPORT["⚙️ Support Activities"]
+        direction TB
+        FI["🏛️ Firm Infrastructure\n• MNRE and SECI policy\n• CERC and SERCs regulation\n• IREDA (IREDA) green finance\n• REC Ltd (RECLTD) infra finance"]
+        HR["👥 HR Management\n• IITs and NITs engineering pipeline\n• NSDC Suryamitra program\n• NIWE wind resource training\n• IIT Jodhpur photovoltaics centre"]
+        TD["🔬 Technology Dev\n• Suzlon R and D centre (SUZLON)\n• Amara Raja Research Centre (AMARAJABAT)\n• CSIR-CECRI electrochemistry\n• L&T electrolyzer manufacturing (LT)"]
+        PR["📦 Procurement\n• SECI nodal procurement agency\n• IREDA green finance (IREDA)\n• Indian Energy Exchange (IEX)\n• Power Grid Corp (POWERGRID)"]
+    end
+
+    subgraph PRIMARY["🔄 Primary Activities"]
+        direction LR
+        IL["📥 Inbound Logistics\n---\n• Waaree Energies (WAAREEENER)\n• Premier Energies (PREMIERENE)\n• Suzlon Energy (SUZLON)\n• Amara Raja (AMARAJABAT)\n• Exide Industries (EXIDEIND)"]
+        OP["⚙️ Operations\n---\n• Waaree Energies (WAAREEENER)\n• Premier Energies (PREMIERENE)\n• Suzlon Energy (SUZLON)\n• Inox Wind (INOXWIND)\n• BHEL (BHEL)"]
+        OL["📤 Outbound Logistics\n---\n• Sterling and Wilson (SWSOLAR)\n• KEC International (KEC)\n• Kalpataru Projects (KPIL)\n• Power Grid Corp (POWERGRID)\n• Adani Energy Solutions (ADANIENSOL)"]
+        MS["📣 Marketing and Sales\n---\n• Adani Green Energy (ADANIGREEN)\n• NTPC Green Energy (NTPCGREEN)\n• JSW Energy (JSWENERGY)\n• Tata Power (TATAPWR)\n• KPI Green Energy (KPIGREEN)"]
+        SV["🔧 Service\n---\n• Waaree Energies (WAAREEENER)\n• Sterling and Wilson (SWSOLAR)\n• Tata Power Solar\n• Greenko (O and M)\n• SunSource Energy"]
+    end
+
+    IL --> OP --> OL --> MS --> SV
+
+    SUPPORT -.-> IL
+    SUPPORT -.-> OP
+    SUPPORT -.-> OL
+    SUPPORT -.-> MS
+    SUPPORT -.-> SV
+
+    style IL fill:#dbeafe,stroke:#3b82f6
+    style OP fill:#dcfce7,stroke:#22c55e
+    style OL fill:#fef9c3,stroke:#eab308
+    style MS fill:#fce7f3,stroke:#ec4899
+    style SV fill:#ede9fe,stroke:#8b5cf6
+    style SUPPORT fill:#f8fafc,stroke:#94a3b8
+    style FI fill:#f1f5f9,stroke:#94a3b8
+    style HR fill:#f1f5f9,stroke:#94a3b8
+    style TD fill:#f1f5f9,stroke:#94a3b8
+    style PR fill:#f1f5f9,stroke:#94a3b8
+```
+
+### Margin capture by stage
+
+| Stage | Margin Level | Primary Capturer |
+|---|---|---|
+| Inbound Logistics | Low | Module and component buyers (Waaree, Premier) — thin import margins; China-dominated upstream pricing |
+| Operations | Medium-High | Module manufacturers (Waaree at 22% EBITDA) and wind OEMs (Suzlon) — PLI and duopoly pricing support margins |
+| Outbound Logistics | Low | EPC contractors (Sterling and Wilson at 5–7% EBITDA) — hyper-competitive, commoditised segment |
+| Marketing and Sales | Medium | IPPs and developers (Adani Green, Greenko) — project IRR 12–15%; C&I bilateral PPAs at 17–20% equity IRR |
+| Service | Medium | O and M providers (Tata Power Solar, Sterling and Wilson) — ₹12–20 lakh per MW per year recurring contracts |

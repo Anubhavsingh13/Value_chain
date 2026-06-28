@@ -459,3 +459,56 @@ The EV battery end-of-life wave is approaching. Firms that invest now in hydrome
 *Analysis prepared using Porter's Value Chain (1985), Porter's Five Forces (1980), Gereffi GVC Framework (2018), and Blue Ocean Four Actions Framework (Kim & Mauborgne, 2004). Company financials sourced from Screener.in, company investor presentations, BSE/NSE filings, and web searches conducted June 2026. All figures in Indian Rupees (INR) unless stated.*
 
 *Sources consulted: Dhan.co recycling stocks list; Equitymaster recycling sector; Screener.in (GRAVITA, GANECOS, AWHCL, ECORECO, GRPLTD, NRAIL, NAMOEWASTE); CMR Green Technologies IPO documents (June 2026); LOHUM press releases and funding announcements; Attero.in; CPCB EPR rules portal; Pure Earth (GST analysis); Mordor Intelligence India Recycling Market; IMARC Group India waste plastic recycling market; DIYguru Battery Recycling India 2026; Business India LOHUM profile; The Week (informal sector digitisation); CSE India (GST recycling study); Pib.gov.in Steel Scrap Recycling Policy; Aleph India (Battery Waste Management Amendment Rules 2025).*
+
+---
+
+## 8. Value Chain Diagram
+
+```mermaid
+flowchart LR
+    subgraph SUPPORT["⚙️ Support Activities"]
+        direction TB
+        FI["🏛️ Firm Infrastructure\n• MoEFCC and CPCB regulation\n• SEBI BRSR ESG reporting\n• GST RCM formalisation (Oct 2024)\n• EPR portal (CPCB centralised)"]
+        HR["👥 HR Management\n• IIT Delhi and IIT Bombay research\n• CECRI battery materials R and D\n• Informal kabadiwala networks\n• No formal ITI recycling track yet"]
+        TD["🔬 Technology Dev\n• Attero Recycling (45+ patents)\n• LOHUM Cleantech (hydromet IP)\n• Gravita India (GRAVITA) process tech\n• CMR Green (CMRGREEN) furnace tech"]
+        PR["📦 Procurement\n• Gravita India (GRAVITA) global sourcing\n• CMR Green (CMRGREEN) auto cluster\n• Attero MetalMandi digital platform\n• ScrapCart B2B aggregation"]
+    end
+
+    subgraph PRIMARY["🔄 Primary Activities"]
+        direction LR
+        IL["📥 Inbound Logistics\n---\n• Gravita India (GRAVITA)\n• Antony Waste (AWHCL)\n• Attero Recycling\n• Karo Sambhav PRO network\n• E-Parisaraa"]
+        OP["⚙️ Operations\n---\n• Gravita India (GRAVITA)\n• CMR Green (CMRGREEN)\n• Ganesha Ecosphere (GANECOS)\n• LOHUM Cleantech\n• Attero Recycling"]
+        OL["📤 Outbound Logistics\n---\n• Gravita India (GRAVITA)\n• CMR Green (CMRGREEN)\n• Ganesha Ecosphere (GANECOS)\n• NR Agarwal Industries (NRAIL)"]
+        MS["📣 Marketing and Sales\n---\n• LOHUM Cleantech (EPR certs)\n• Ecoreco (ECORECO)\n• Namo eWaste (NAMOEWASTE)\n• Attero Recycling\n• Ganesha Ecosphere (GANECOS)"]
+        SV["🔧 Service\n---\n• Ecoreco (ECORECO) ITAD\n• Attero Recycling EPR consulting\n• LOHUM second-life batteries\n• Karo Sambhav PRO compliance"]
+    end
+
+    IL --> OP --> OL --> MS --> SV
+
+    SUPPORT -.-> IL
+    SUPPORT -.-> OP
+    SUPPORT -.-> OL
+    SUPPORT -.-> MS
+    SUPPORT -.-> SV
+
+    style IL fill:#dbeafe,stroke:#3b82f6
+    style OP fill:#dcfce7,stroke:#22c55e
+    style OL fill:#fef9c3,stroke:#eab308
+    style MS fill:#fce7f3,stroke:#ec4899
+    style SV fill:#ede9fe,stroke:#8b5cf6
+    style SUPPORT fill:#f8fafc,stroke:#94a3b8
+    style FI fill:#f1f5f9,stroke:#94a3b8
+    style HR fill:#f1f5f9,stroke:#94a3b8
+    style TD fill:#f1f5f9,stroke:#94a3b8
+    style PR fill:#f1f5f9,stroke:#94a3b8
+```
+
+### Margin capture by stage
+
+| Stage | Margin Level | Primary Capturer |
+|---|---|---|
+| Inbound Logistics | Very Low | Informal kabadiwala networks and PROs — volume-spread margins; formal players (Antony Waste at 23% EBITDA) are exception via municipal concessions |
+| Operations | Low-Medium | Commodity recyclers (CMR Green at 4–6% EBITDA, Gravita at 12–14% EBITDA); LOHUM commands higher margins via hydromet technology |
+| Outbound Logistics | Low | B2B commodity delivery — margins thin; Gravita partially offsets via export to 13 countries |
+| Marketing and Sales | High | LOHUM and Ecoreco — EPR certificate sales deliver near-pure margin; compliance-mandated demand with no commodity price linkage |
+| Service | Medium-High | Ecoreco ITAD (72% EBITDA margin on small base); LOHUM second-life battery partnerships — recurring enterprise contracts at premium pricing |
