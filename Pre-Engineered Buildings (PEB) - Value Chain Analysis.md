@@ -46,13 +46,14 @@ India is the world's **3rd-largest PEB market** by volume after the US and China
 - **Procurement scale** — large players (Interarch, Kirby, Pennar) negotiate 3–5% better rates vs smaller fabricators
 - **Steel grade mix** — use of higher-strength steel (Fe 550, Fe 600) reduces tonnage per sqm (material efficiency), a key design differentiator
 - **Vendor managed inventory (VMI)** with steel mills reduces working capital for large players
-- **Import dependency** for specialty steels: Galvalume/ZINCALUME coated steel for roofing (Tata BlueScope Steel is the dominant supplier in India)
+- **Import dependency** for specialty steels: Galvalume/ZINCALUME coated steel for roofing (Tata BlueScope Steel is the dominant premium supplier; Bansal Roofing Products serves the mid-market)
 
 **Indian companies active here:**
 - **Tata Steel (NSE: TATASTEEL)** — HR coils, structural sections; preferred supplier to most PEB majors
 - **JSW Steel (NSE: JSWSTEEL)** — HR coils, CR sheets; competitive with Tata on price
 - **SAIL (NSE: SAIL)** — HR plates and sections; less consistent quality perception vs private mills
-- **Tata BlueScope Steel (unlisted, JV)** — Galvalume/Colorbond coated steel for roof/wall sheeting; near-monopoly in premium coated steel for PEB
+- **Tata BlueScope Steel (unlisted, JV)** — Galvalume/Colorbond coated steel for roof/wall sheeting; dominant in premium segment
+- **Bansal Roofing Products (NSE: BANSAL)** — Gujarat-based listed manufacturer of colour-coated roofing sheets and Galvalume profiled panels; mid-market alternative to Tata BlueScope; serves smaller PEB fabricators who cannot access BlueScope allocations or find BlueScope pricing uncompetitive
 - **AM/NS India (unlisted, ArcelorMittal-NSSMC JV)** — HR coils
 - **Steel service centres:** Shree Steel, Mahavir Steel, JSW One Platforms — slit and cut-to-length service
 
@@ -223,7 +224,7 @@ India is the world's **3rd-largest PEB market** by volume after the US and China
 
 ### Supplier Power — MEDIUM-HIGH
 
-The most critical inputs — large marine diesel engines, marine electronics/navigation systems, thrusters, and propulsion systems — are supplied by a handful of global OEMs. In PEB, steel (HR coils and plates) is PEB's dominant input at 60–70% of cost, and while multiple domestic mills compete (Tata, JSW, SAIL, AM/NS), commodity pricing means mills do not negotiate away from prevailing HR coil benchmarks. The real supplier power concentration lies in **coated steel for roofing/cladding**, where Tata BlueScope effectively holds a premium near-monopoly. PEB firms cannot easily substitute away from coated steel for exterior sheeting — corrosion resistance is non-negotiable. Steel price volatility (not supplier concentration per se) is the structural risk; PEB firms absorb 6-month lead time between steel procurement and project billing, creating mark-to-market exposure.
+The most critical inputs — large marine diesel engines, marine electronics/navigation systems, thrusters, and propulsion systems — are supplied by a handful of global OEMs. In PEB, steel (HR coils and plates) is PEB's dominant input at 60–70% of cost, and while multiple domestic mills compete (Tata, JSW, SAIL, AM/NS), commodity pricing means mills do not negotiate away from prevailing HR coil benchmarks. The real supplier power concentration lies in **coated steel for roofing/cladding**, where Tata BlueScope dominates the premium segment (Galvalume/Colorbond brand). Bansal Roofing Products (NSE: BANSAL) provides a mid-market domestic alternative, giving smaller PEB fabricators some optionality — but BlueScope's quality premium means large institutional buyers typically specify it by name. PEB firms cannot easily substitute away from coated steel for exterior sheeting — corrosion resistance is non-negotiable. Steel price volatility (not supplier concentration per se) is the structural risk; PEB firms absorb 6-month lead time between steel procurement and project billing, creating mark-to-market exposure.
 
 ### Buyer Power — MEDIUM-HIGH
 
@@ -327,7 +328,8 @@ Most PEB firms subcontract erection to specialist steel erectors. Poor workmansh
 | Inbound — Steel | Tata Steel | Yes | NSE: TATASTEEL | HR coils, plates, structural sections — primary steel input | ₹2,29,170 Cr revenue FY24 | Supplier/Leader |
 | Inbound — Steel | JSW Steel | Yes | NSE: JSWSTEEL | HR coils and CR sheets for PEB fabrication | ₹2,27,148 Cr revenue FY24 | Supplier/Leader |
 | Inbound — Steel | SAIL | Yes | NSE: SAIL | HR plates and structural sections | ₹1,03,516 Cr revenue FY24 | Supplier/Niche |
-| Inbound — Coated Steel | Tata BlueScope Steel | No (JV — unlisted) | — | Galvalume/Colorbond coated steel for PEB roofing/cladding; near-monopoly in premium segment | Not disclosed | Supplier/Leader |
+| Inbound — Coated Steel | Tata BlueScope Steel | No (JV — unlisted) | — | Galvalume/Colorbond coated steel for PEB roofing/cladding; dominant in premium segment | Not disclosed | Supplier/Leader |
+| Inbound — Coated Steel | Bansal Roofing Products | Yes | NSE: BANSAL | Colour-coated roofing sheets and Galvalume profiled panels; mid-market alternative to Tata BlueScope; Gujarat-based | Not publicly disclosed | Supplier/Challenger |
 | Inbound — Coatings | Asian Paints | Yes | NSE: ASIANPAINT | Industrial primers and protective coatings for steel structures | ₹35,494 Cr revenue FY24 | Supplier/Niche |
 | Inbound — Coatings | Akzo Nobel India | Yes | NSE: AKZOINDIA | Interpon/Dulux industrial coatings for PEB exterior | ₹4,007 Cr revenue FY24 | Supplier/Niche |
 | Outbound Logistics | VRL Logistics | Yes | NSE: VRLLOG | Full-truckload freight for PEB component dispatch | ₹2,753 Cr revenue FY24 | Niche |
