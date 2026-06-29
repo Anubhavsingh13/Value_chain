@@ -44,6 +44,7 @@ flowchart LR
 - Spectrum cost is the single largest financial input — Jio's massive 2022 outlay gives it superior sub-GHz low-band coverage for deep rural penetration and mid-band (3.5GHz) capacity for urban 5G.
 - Equipment vendor concentration (Ericsson/Nokia duopoly for 5G RAN) limits negotiating power for telcos, though large operators like Jio negotiate global frame agreements.
 - Indigenous 5G stack (C-DOT/Tejas/TCS for BSNL) is a strategic inbound logistics disruption — if successful, it reduces dependence on foreign OEMs and creates cost competitive options.
+- Power infrastructure is a structurally significant input — every BTS requires reliable DC power backup; lithium-ion battery packs are replacing legacy VRLA batteries as 5G densification and energy efficiency mandates intensify, with Exicom Tele-Systems (NSE: EXICOM) being India's leading listed supplier.
 
 **Key Indian players:**
 - Jio Infocomm (NSE: RELIANCE subsidiary) — largest spectrum holder post-2022 auction
@@ -53,6 +54,7 @@ flowchart LR
 - Tejas Networks (NSE: TEJASNET) — supplying indigenous 4G/5G RAN for BSNL rollout
 - Sterlite Technologies (NSE: STLTECH) — optical fibre cable manufacturer; key input supplier for backhaul
 - HFCL (NSE: HFCL) — optical fibre and networking equipment; PLI beneficiary
+- Exicom Tele-Systems (NSE: EXICOM) — DC power systems and lithium-ion energy storage for telecom towers; listed March 2024
 
 ---
 
@@ -64,6 +66,7 @@ flowchart LR
 - Tower sharing is critical for capex efficiency — without Indus Towers, per-operator tower capex would be 2-3x higher.
 - Standalone vs. Non-Standalone 5G architecture is a key differentiation: Jio (SA) enables true network slicing and low-latency applications; Airtel (NSA) leverages existing 4G core but is faster to deploy.
 - Fibre backhaul density is the hidden bottleneck for 5G quality — only ~35% of India's towers are fiberised vs. 70%+ in China.
+- Power management is a critical but underappreciated operations cost driver — energy accounts for 30-35% of tower operating costs. The shift from diesel generators + VRLA batteries to solar + lithium-ion systems (supplied by Exicom, NSE: EXICOM) directly reduces opex for tower companies like Indus Towers and ATC India, and is increasingly mandated under TRAI's green telecom guidelines.
 - Data centre footprint for edge computing is the next battleground as enterprise 5G applications require sub-10ms latency.
 
 **Key Indian players:**
@@ -172,9 +175,9 @@ flowchart LR
 
 **Role:** Procurement decisions shape cost structure for 10-15 year asset lives. Key procurement categories: spectrum (₹1.5 lakh Cr in 2022 alone), active RAN equipment (Nokia, Ericsson — 3-5 year replacement cycles), passive tower infrastructure (outsourced to Indus Towers/ATC), fibre cable (Sterlite Tech, HFCL, Corning India), power and energy, and enterprise IT systems (OSS/BSS — typically Amdocs, Netcracker, or TCS).
 
-**Where Indian firms are strong/weak:** India has domestic optical fibre cable capacity (STLTECH, HFCL are global players). However, 5G RAN silicon, power amplifiers, and advanced optical transceivers remain 100% import-dependent. The PLI scheme has attracted Nokia, Ericsson (via Jabil), Samsung, and HFCL to manufacture in India — total PLI production exceeded ₹57,000 Cr by July 2024.
+**Where Indian firms are strong/weak:** India has domestic optical fibre cable capacity (STLTECH, HFCL are global players). However, 5G RAN silicon, power amplifiers, and advanced optical transceivers remain 100% import-dependent. The PLI scheme has attracted Nokia, Ericsson (via Jabil), Samsung, and HFCL to manufacture in India — total PLI production exceeded ₹57,000 Cr by July 2024. In power electronics for telecom, India has a competitive domestic player: Exicom Tele-Systems (NSE: EXICOM), which supplies DC power systems and lithium-ion batteries to Indus Towers, ATC India, and all three MNOs — a structurally embedded position as 5G densification (requiring more, smaller, more power-efficient sites) accelerates demand.
 
-**Notable companies:** Sterlite Technologies (NSE: STLTECH), HFCL (NSE: HFCL), Corning India (unlisted), ITI Limited (NSE: ITI), Bharat Electronics (NSE: BEL — defence telecom procurement).
+**Notable companies:** Sterlite Technologies (NSE: STLTECH), HFCL (NSE: HFCL), Corning India (unlisted), ITI Limited (NSE: ITI), Bharat Electronics (NSE: BEL — defence telecom procurement), Exicom Tele-Systems (NSE: EXICOM — DC power systems and lithium-ion energy storage for telecom towers).
 
 ---
 
@@ -301,6 +304,7 @@ Enterprise 5G (private networks) requires clear spectrum policy (dedicated enter
 | Device Manufacturing | Dixon Technologies (India) Ltd | Yes | NSE: DIXON | Contract electronics manufacturer; India's largest smartphone manufacturer; PLI beneficiary | Rev: ₹38,860 Cr (FY25); Mkt cap ~₹70,000 Cr | Leader (EMS) |
 | Adtech / Telecom Applications | Affle 3i Ltd (formerly Affle India) | Yes | NSE: AFFLE | Programmatic adtech platform; CPCU model; rides on telecom data for mobile user conversion | Rev: ~₹2,709 Cr; Mkt cap ~₹20,401 Cr | Niche (application layer) |
 | Defence / Government Telecom | Bharat Electronics Ltd | Yes | NSE: BEL | Defence electronics + government telecom equipment; tactical communication systems | Rev: ~₹21,690 Cr (FY25); Mkt cap ~₹2.1 lakh Cr | Niche (defence) |
+| Tower Power Infrastructure | Exicom Tele-Systems Ltd | Yes (Recently listed) | NSE: EXICOM | DC power systems and lithium-ion batteries for telecom towers; key supplier to Indus Towers, ATC India, and all three MNOs; also has an EV charging division (Primus) | Mkt cap ~₹3,500–4,500 Cr (FY25); revenue not publicly disclosed separately | Niche (critical input) |
 | Integrated Telecom (parent) | Reliance Industries Ltd | Yes | NSE: RELIANCE | Conglomerate; owns Jio Platforms (488M subs; 191M 5G users); JioAirFiber; JioTech 5G stack | Rev: ₹9.27 lakh Cr consolidated (FY25); Mkt cap ~₹17 lakh Cr | Leader |
 
 ### Unlisted / Private Companies
@@ -404,7 +408,7 @@ flowchart LR
         FI["Firm Infrastructure\nTRAI regulation, DoT licensing\nUSO Fund, AGR framework\nDPIIT PLI scheme"]
         HR["HR Management\nC-DOT & IIT 5G researchers\nTCS telecom engineers\nTower technicians (ITIs)"]
         TD["Technology Development\nJio SA 5G stack (JioTech)\nC-DOT 5GC core\nTejas Networks 5G RAN\nOpen RAN - Saankhya Labs"]
-        PR["Procurement\nSpectrum: DoT auctions (Rs 1.5L Cr 2022)\nRAN: Nokia, Ericsson\nFibre: STLTECH, HFCL\nPower: grid + solar"]
+        PR["Procurement\nSpectrum: DoT auctions (Rs 1.5L Cr 2022)\nRAN: Nokia, Ericsson\nFibre: STLTECH, HFCL\nTower power: Exicom (EXICOM)"]
     end
 
     subgraph PRIMARY["Primary Activities"]
