@@ -124,6 +124,9 @@ Long-term operation and maintenance contracts (typically 5–15 years) for treat
 *Equipment manufacturing (pumps):*
 - **Kirloskar Brothers (NSE: KIRLOSBROS)** — India's largest pump manufacturer for water/irrigation; FY26 revenue ₹4,538 Cr; EBITDA margin 13.7%; PAT ₹377 Cr; total order book ₹3,949 Cr (domestic +30% YoY, international +21% YoY)
 - **KSB Limited (NSE: KSB)** — pumps and valves for water, power, and industry; FY25 revenue ₹2,696 Cr
+- **Shakti Pumps (India) (NSE: SHAKTIPUMP)** — submersible and solar pumps; major PM KUSUM beneficiary (solar-powered agri pumps); FY26 revenue ₹2,698 Cr (+7.2% YoY); mkt cap ~₹7,168 Cr; order book ₹1,500 Cr; subsidiary building 2.2 GW solar module plant
+- **Oswal Pumps (NSE: OSWALPUMPS)** — solar + submersible pumps; listed June 2025; FY26 revenue ₹2,064 Cr (+44% YoY); PAT ₹376 Cr; mkt cap ~₹4,841 Cr; PM KUSUM scheme the primary revenue driver
+- **Roto Pumps (NSE: ROTO)** — progressive cavity pumps; specialist in wastewater and sludge pumping for STPs, sugar, paper, and chemicals; FY25 revenue ₹285 Cr; mkt cap ~₹1,385 Cr
 - **Grundfos India** (unlisted, Danish MNC subsidiary) — energy-efficient pumps for water utilities
 
 *Equipment manufacturing (pipes):*
@@ -134,7 +137,8 @@ Long-term operation and maintenance contracts (typically 5–15 years) for treat
 - **Electrosteel Castings (NSE: ELECTCAST)** — ductile iron pipes for water mains and sewerage
 - **Jindal Saw (NSE: JINDALSAW)** — LSAW, SAW, and DI pipes; large diameter transmission mains
 
-*Equipment manufacturing (valves, meters):*
+*Equipment manufacturing (valves, flow control gates, screens):*
+- **Jash Engineering (NSE: JASH)** — India's only dedicated listed manufacturer of water control gates, penstocks, stop logs, butterfly valves, bar screens, and drum screens; exports to 45+ countries; FY26 revenue ₹736 Cr; total order book ₹888 Cr (₹627 Cr international — 71% of book); UK subsidiary acquired Penstocks (UK) Ltd (April 2026) — a pure-play on capital equipment for WTPs, STPs, irrigation, and hydropower intakes
 - **Indian Hume Pipe Company (NSE: INDHUMPIP)** — hume pipes, pressure pipes; water networks
 - L&T Valves (unlisted division of L&T)
 
@@ -518,6 +522,7 @@ India loses an estimated **30–50% of treated water** through Non-Revenue Water
 | **Micro Irrigation (drip/sprinkler)** | Jain Irrigation Systems Ltd | Yes | NSE: JISLJALEQS | World's 2nd largest micro irrigation company; PVC pipes + agri services | TTM Rev ~₹6,379 Cr; EBITDA margin ~10.5% (FY25) | Leader |
 | **Ductile Iron Pipes** | Electrosteel Castings Ltd | Yes | NSE: ELECTCAST | DI pipes for water mains, sewerage; key supplier to water utilities | Rev ~₹3,500 Cr (FY25E); Mkt cap ~₹5,000 Cr | Leader |
 | **Large-diameter Steel/DI Pipes** | Jindal Saw Ltd | Yes | NSE: JINDALSAW | LSAW, SAW, DI pipes; large water transmission mains | Rev ~₹18,000 Cr total; Mkt cap ~₹12,000 Cr | Challenger |
+| **Flow Control Gates / Screens / Valves** | Jash Engineering Ltd | Yes | NSE: JASH | Only listed Indian manufacturer of water control gates, penstocks, stop logs, butterfly valves, bar & drum screens for WTPs, STPs, irrigation dams, and hydropower; exports to 45+ countries | Rev ₹736 Cr (FY26); Mkt cap ~₹3,181 Cr | Leader (niche) |
 | **Hume Pipes / Pressure Pipes** | Indian Hume Pipe Company | Yes | NSE: INDHUMPIP | RCC hume pipes; storm water drains, culverts, sewer | Rev ~₹900 Cr (FY25E); Mkt cap ~₹1,200 Cr | Niche |
 | **Municipal STP/WTP EPC + HAM** | Enviro Infra Engineers Ltd | Yes | NSE: ENVIROINFRA | EPC and HAM for STPs and water supply projects for govt clients; IPO Nov 2024; expanding into renewable energy (wind EPC, BESS) | Rev ₹1,146 Cr (FY26, +7.5% YoY); OB ₹6,814 Cr (+242% YoY); EBITDA margin 24.2%; Mkt cap ~₹3,000 Cr | Challenger |
 
@@ -583,6 +588,13 @@ India loses an estimated **30–50% of treated water** through Non-Revenue Water
 - What makes them interesting: Enviro Infra is the freshest listed water EPC company (IPO November 2024, listed at ₹220 vs ₹148 issue price — 49% listing gain) and one of the most underfollowed. The FY26 order book of ₹6,814 Cr is +242% YoY — implying a massive order intake event in FY26, likely from government water supply scheme awards under JJM and state water boards. At 5.9x revenue, the book-to-bill is among the highest in the sector; this provides 3–4 years of revenue visibility. EBITDA margin of 24.2% is exceptional for a pure-play EPC company — suggesting a high share of HAM/DBOOT project mix (which includes O&M income) rather than pure civil EPC. The company is also diversifying into renewable energy (acquired wind EPC firm Suyog Urja; 930 MWh BESS win from NTPC) — a strategic hedge as government water budgets plateau.
 - Key financials: FY26 revenue ₹1,146 Cr (+7.5% YoY); order book ₹6,814 Cr (+242% YoY); EBITDA margin 24.2%; market cap ~₹3,000 Cr
 - Watch factor: Exchange sought clarification on Q4 FY26 results — governance/disclosure quality needs monitoring for a recently listed company; 242% order book surge requires execution capacity verification; renewable pivot is early stage and diverts management attention from water core
+
+**Jash Engineering (NSE: JASH)**
+- Stage in chain: Equipment manufacturing — flow control gates, penstocks, screens, valves; installed at every water intake, WTP, STP, irrigation dam, and hydropower project
+- What makes them interesting: Jash is the **only listed Indian manufacturer of water control gates and flow control equipment** — a niche that every water infrastructure project requires but that no domestic company of scale was serving until Jash emerged. Its product portfolio (sluice gates, stop logs, penstocks, butterfly valves, bar screens, drum screens, actuators) is capital equipment that gets specified into WTP/STP designs at the engineering stage and has near-zero substitutability once specified. This creates strong repeat customer relationships and order visibility. The international skew of its order book (₹627 Cr of ₹888 Cr total, i.e., 71%) — with the USA contributing ₹375 Cr — demonstrates genuine product quality that can compete globally. The UK acquisition (Penstocks UK, April 2026) adds European distribution capability and local content credentials for UK/EU infrastructure bids. FY26 revenue guidance of ₹875 Cr for FY26-27 implies 19% growth from FY26's ₹736 Cr — driven by international order execution. EBITDA margins for specialised water control equipment are structurally 18–25%+, materially above the 8–13% earned by EPC players.
+- Key financials: FY25 revenue ₹735 Cr (+43% YoY); PAT ₹88 Cr (+31%); total order book ₹888 Cr (71% international); market cap ~₹3,181 Cr; FY26-27 revenue guidance ₹875 Cr
+- Watch factor: International order execution pace (US + UK market traction post-Penstocks UK acquisition) and margin trajectory as mix shifts further toward export orders
+- **Investment angle:** Market is likely pricing Jash as a small-cap domestic water infrastructure play correlated to JJM/AMRUT cycle risk. The reality is 71% of the order book is international — primarily the USA and UK — making it structurally decoupled from India government budget cycles. The Penstocks UK acquisition gives it a European manufacturing and sales platform, and global water infrastructure capex (driven by climate resilience, flood control, and water scarcity) is a decade-long cycle uncorrelated to Indian fiscal policy. A re-rating from domestic-government-dependent to global specialised equipment manufacturer — even partial — would meaningfully compress the discount at which it trades relative to global water equipment peers (Rotork, AVK, Emerson).
 
 ---
 
