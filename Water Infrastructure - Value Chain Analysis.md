@@ -1,6 +1,6 @@
 # Water and Related Infrastructure & Ancillary — India Value Chain Analysis
 
-**Date:** June 2026
+**Date:** July 2026
 **Frameworks:** Porter's Value Chain · Porter's Five Forces · Gereffi's GVC · Linkages & Leverage · Blue Ocean (Four Actions)
 **Scope:** Water treatment (drinking water + wastewater) · Water supply infrastructure (pipes, pumps, valves) · Irrigation · Desalination · Sewage treatment plants (STPs) · Effluent treatment plants (ETPs) · Water technology / analytics
 
@@ -110,7 +110,7 @@ Long-term operation and maintenance contracts (typically 5–15 years) for treat
 **Indian companies active here:**
 
 *EPC / Integrated treatment:*
-- **Va Tech Wabag (NSE: WABAG)** — India's premier water and wastewater EPC + technology company; FY26 revenue ~₹3,944 Cr; order book ₹17,235 Cr
+- **Va Tech Wabag (NSE: WABAG)** — India's premier water and wastewater EPC + technology company; FY26 revenue ₹3,944 Cr (+21% YoY); PAT ₹370 Cr (+26% YoY); order book ₹17,200 Cr; net cash positive; management guiding 15–20% CAGR through FY28
 - **Ion Exchange India (NSE: IONEXCHANG)** — water treatment EPC + chemicals + consumer products; FY25 revenue ₹2,591 Cr
 - **Thermax (NSE: THERMAX)** — water and environment division within a ₹10,389 Cr (FY25) industrial conglomerate
 - **Praj Industries (NSE: PRAJIND)** — ZLD, industrial wastewater and bioethanol; strong in zero liquid discharge; FY25 revenue ₹3,228 Cr
@@ -122,7 +122,7 @@ Long-term operation and maintenance contracts (typically 5–15 years) for treat
 - **Tata Projects** (unlisted, subsidiary of Tata Sons) — large-scale water and sanitation EPC
 
 *Equipment manufacturing (pumps):*
-- **Kirloskar Brothers (NSE: KIRLOSBROS)** — India's largest pump manufacturer for water/irrigation; FY25 revenue ₹4,492 Cr
+- **Kirloskar Brothers (NSE: KIRLOSBROS)** — India's largest pump manufacturer for water/irrigation; FY26 revenue ₹4,538 Cr; EBITDA margin 13.7%; PAT ₹377 Cr; total order book ₹3,949 Cr (domestic +30% YoY, international +21% YoY)
 - **KSB Limited (NSE: KSB)** — pumps and valves for water, power, and industry; FY25 revenue ₹2,696 Cr
 - **Grundfos India** (unlisted, Danish MNC subsidiary) — energy-efficient pumps for water utilities
 
@@ -236,9 +236,11 @@ Water infrastructure is highly capital-intensive and government-dependent, makin
 - Smaller municipal EPC companies frequently struggle with working capital and debt (historical issue for Jain Irrigation)
 
 **Notable institutions:**
-- **Jal Shakti Ministry** — apex body for water policy; administers JJM, NMCG, National Water Mission
-- **NMCG (National Mission for Clean Ganga)** — awards Namami Gange STP/riverfront contracts; ₹20,000 Cr+ programme
-- **CPCB (Central Pollution Control Board)** — sets effluent discharge standards; drives industrial ETP demand
+- **Jal Shakti Ministry** — apex body for water policy; administers JJM, NMCG, National Water Mission; Budget 2026-27 total allocation ₹94,808 Cr (5% lower than FY26 ₹99,503 Cr)
+- **JJM (Jal Jeevan Mission)** — ₹67,670 Cr allocation FY27 (+1% vs FY26); extended to 2028 from original 2024 deadline; 15.72 crore rural homes (81%+ coverage) achieved; Phase 2 focus on quality, source strengthening, and O&M rather than new connections
+- **NMCG (National Mission for Clean Ganga) / Namami Gange II** — ₹3,100 Cr FY27; 138 projects complete (3,806 MLD capacity); target 7,000 MLD by December 2026; emphasis shifting to STP performance verification and ecological outcomes
+- **AMRUT 2.0** — ₹8,000 Cr FY27 (down from ₹10,000 Cr FY26); 586 sewerage projects (6,964 MLD STC) and 3,571 water supply projects approved as of August 2025; smart water metering rollout in 500+ cities under programme
+- **CPCB (Central Pollution Control Board)** — sets effluent discharge standards; ZLD mandates expanding to dairy, sugar, pharmaceutical sectors; drives industrial ETP demand
 - **SEBI / NSE / BSE** — listed company governance; many water EPC companies have improved governance post-COVID to access capital markets
 
 ---
@@ -359,7 +361,23 @@ The Indian water infrastructure EPC market is highly competitive. At least 15–
 
 ### Overall Attractiveness Verdict: **MEDIUM**
 
-The sector benefits from a structural, policy-mandated growth driver (₹67,000 Cr JJM allocation FY26, AMRUT 2.0, Namami Gange) and rising industrial demand (ZLD mandates), but structural attractiveness is constrained by dominant government buyer power and intense price-based rivalry; companies that escape into technology and O&M earn structurally superior returns.
+The sector benefits from a structural, policy-mandated growth driver (₹67,670 Cr JJM allocation FY27, AMRUT 2.0, Namami Gange II ₹3,100 Cr) and rising industrial demand (ZLD mandates), but structural attractiveness is constrained by dominant government buyer power and intense price-based rivalry; companies that escape into technology and O&M earn structurally superior returns. **JJM Phase 2 dynamic (2026–2028):** JJM has been extended to 2028 (from original 2024 deadline) with 81%+ rural coverage achieved (15.72 crore homes). The programme is pivoting from infrastructure roll-out to quality, source strengthening, and O&M — a qualitative shift that favours technology and O&M-capable companies over pure-play civil EPC contractors.
+
+---
+
+### Capital Cycle Verdict (July 2026)
+
+**Phase: Cautious inflow — bifurcated by sub-segment**
+
+The water infrastructure capital cycle is diverging across three sub-segments:
+
+1. **Municipal EPC (JJM/AMRUT/Namami Gange):** Capital was deployed rapidly 2021–2025 driven by government mandates. The JJM Phase 2 pivot to quality/O&M and Budget 2026-27 Jal Shakti allocation declining 5% (₹94,808 Cr vs ₹99,503 Cr in 2025-26) suggests the peak infrastructure roll-out phase may be behind us. Order books remain full (WABAG ₹17,200 Cr, Welspun ₹19,739 Cr), so near-term execution visibility is strong — but new order momentum may decelerate.
+
+2. **Industrial ETP/ZLD:** Still in early-to-mid inflow phase. CPCB ZLD mandates are spreading to new industries (dairy, sugar, pharma). This segment is structurally under-invested relative to compliance requirements; capex cycle is still building.
+
+3. **O&M / Technology (smart metering, NRW analytics):** Early inflow. AMRUT 2.0 driving smart water metering adoption in 500+ cities; JJM Phase 2 mandating water quality monitoring and functional connection verification. The O&M and digital water segment is entering an acceleration phase that will continue through at least 2030.
+
+**Investor implication:** Avoid re-rating expectations for pure-play municipal EPC (JJM roll-out priced in, budgets plateau). Accumulate technology-led companies (WABAG O&M book, Praj ZLD) and equipment providers benefiting from Phase 2 quality mandates (Kirloskar Brothers pump replacements, smart meter players). The next re-rating event is a Water Technology PLI scheme — watch for this in Budget 2027-28.
 
 ---
 
@@ -462,22 +480,37 @@ India loses an estimated **30–50% of treated water** through Non-Revenue Water
 
 ---
 
+## 5.5 Near-Term Catalysts (12–18 months)
+
+| # | Catalyst | Timing | Beneficiary |
+|---|---|---|---|
+| 1 | **JJM Phase 2 O&M tenders** — Government begins awarding 5–10 year O&M contracts for the 15.72 Cr connections already built; shift from civil EPC to technology-enabled O&M | H2 FY27 | WABAG, Ion Exchange (industrial O&M precedent), Kirloskar Brothers (pump service contracts) |
+| 2 | **Namami Gange II execution sprint** — 138 projects complete but only 3,806 MLD of 7,000 MLD target achieved; remaining 3,194 MLD gap must be bridged by Dec 2026 | H1 FY27 | EMS Limited, Triveni Engineering, WABAG (NMCG-empanelled) |
+| 3 | **AMRUT 2.0 smart water metering rollout** — 500+ cities mandating smart meters; AMRUT 2.0 drives ₹8,000 Cr allocation FY27 | Ongoing FY27 | Kritsnam Technologies, IoT meter manufacturers (largely unlisted); JioThings |
+| 4 | **CPCB ZLD mandate extension** — New industries (dairy, sugar, pharmaceutical) coming under ZLD compliance requirements; industrial ETP replacement cycle | FY27 | Praj Industries (ZLD platform), Thermax (industrial water), Ion Exchange (ETP chemicals) |
+| 5 | **Welspun Dharavi WTP execution** — ₹4,636 Cr BMC Dharavi Wastewater Treatment Facility moving to construction phase; single largest private water contract | FY27–28 | Welspun Enterprises (order book ₹19,739 Cr, +44% YoY) |
+| 6 | **Water Technology PLI policy signal** — Industry lobbying for PLI scheme for domestic RO membrane and smart flow meter manufacturing; any Budget 2027-28 announcement would be a structural catalyst | Budget FY28 | WABAG, Praj, any domestic membrane manufacturer entering the space |
+| 7 | **Desalination scale-up** — Perur (TN) 400 MLD plant at 42% progress; additional coastal states facing water stress; WABAG has Chennai desalination reference | FY27–28 | WABAG (technology lead), Megha Engineering (EPC), DuPont/Toray (membranes) |
+| 8 | **Performance-based NRW contracts** — ULBs beginning to experiment with pay-per-KL-saved NRW reduction contracts as JJM Phase 2 focuses on functional connections and water quality verification | FY27 | Smart water analytics startups; WABAG digital division; Xylem India |
+
+---
+
 ## 6. Indian Company Landscape
 
 ### Listed Companies
 
 | Value chain stage | Company name | Listed? | Exchange & ticker | Business description | Approx. revenue / market cap | Position in chain |
 |---|---|---|---|---|---|---|
-| **Integrated WTP/STP EPC + Technology** | Va Tech Wabag Ltd | Yes | NSE: WABAG | India's largest water & wastewater EPC + technology company; domestic and international projects | Rev ₹3,944 Cr (FY26); Mkt cap ~₹13,154 Cr | Leader |
+| **Integrated WTP/STP EPC + Technology** | Va Tech Wabag Ltd | Yes | NSE: WABAG | India's largest water & wastewater EPC + technology company; domestic and international projects | Rev ₹3,944 Cr (FY26, +21% YoY); PAT ₹370 Cr (+26%); OB ₹17,200 Cr; Mkt cap ~₹13,154 Cr | Leader |
 | **Integrated WTP/ETP EPC + Chemicals** | Ion Exchange (India) Ltd | Yes | NSE: IONEXCHANG | Water treatment EPC, ion exchange resins, consumer ZeroB purifiers | Rev ₹2,591 Cr (FY25); Mkt cap ~₹5,847 Cr | Leader |
 | **Industrial Water / ZLD EPC** | Thermax Ltd | Yes | NSE: THERMAX | Water & environment division within industrial energy conglomerate | Rev ₹10,389 Cr total (FY25); EBITDA ~8.7%; Mkt cap ~₹35,000 Cr | Leader |
 | **Industrial ZLD / Wastewater EPC** | Praj Industries Ltd | Yes | NSE: PRAJIND | ZLD systems, industrial effluent treatment, bioethanol; technology-led | Rev ₹3,228 Cr (FY25); Mkt cap ~₹8,500 Cr | Leader |
 | **Municipal STP / WTP EPC** | EMS Limited | Yes | NSE: EMSLIMITED | Delhi-based EPC specialist for STPs, WTPs, and sewer networks; govt client | Rev ~₹955 Cr (FY25); Order book ₹2,388 Cr | Challenger |
 | **Large STP EPC (Namami Gange)** | Triveni Engineering & Industries | Yes | NSE: TRIVENI | Sugar + water division; large STP turnkey contractor; Yamuna, Ganga projects | Rev ₹5,747 Cr total (FY25); Mkt cap ~₹12,000 Cr | Challenger |
-| **Water Infra EPC / HAM** | Welspun Enterprises Ltd | Yes | NSE: WELENT | HAM and EPC water projects (JJM, Dharavi WTP); 64% of OB is water | Rev ₹3,584 Cr (FY25); Mkt cap ~₹7,170 Cr | Challenger |
+| **Water Infra EPC / HAM** | Welspun Enterprises Ltd | Yes | NSE: WELENT | HAM and EPC water projects (JJM, Dharavi WTP); water ~80%+ of order book | Rev ₹3,584 Cr (FY25); OB ₹19,739 Cr (+44% YoY); Mkt cap ~₹7,170 Cr | Challenger |
 | **Diversified Infra EPC (water)** | NCC Limited | Yes | NSE: NCC | Water supply and sanitation division beneficiary of JJM; diversified EPC | Rev ~₹17,000 Cr total (FY25); Mkt cap ~₹12,000 Cr | Niche |
 | **Mega Infra EPC (water division)** | Larsen & Toubro Ltd | Yes | NSE: LT | Water and effluent treatment EPC division; massive scale and balance sheet | Rev ~₹2,40,000 Cr total; Mkt cap ~₹3,60,000 Cr | Leader (segment) |
-| **Pumps (water, irrigation, industry)** | Kirloskar Brothers Ltd | Yes | NSE: KIRLOSBROS | India's largest pump manufacturer; water supply, irrigation, power plant cooling | Rev ₹4,492 Cr (FY25); EBITDA ~14%; Mkt cap ~₹8,000 Cr | Leader |
+| **Pumps (water, irrigation, industry)** | Kirloskar Brothers Ltd | Yes | NSE: KIRLOSBROS | India's largest pump manufacturer; water supply, irrigation, power plant cooling | Rev ₹4,538 Cr (FY26); EBITDA 13.7%; PAT ₹377 Cr; OB ₹3,949 Cr; Mkt cap ~₹8,000 Cr | Leader |
 | **Pumps and Valves** | KSB Limited | Yes | NSE: KSB | German-origin pumps and valves; water, power, chemicals | Rev ₹2,696 Cr (FY25); Mkt cap ~₹6,500 Cr | Challenger |
 | **PVC Pipes (irrigation + plumbing)** | Finolex Industries Ltd | Yes | NSE: FINPIPE | India's largest PVC pipe manufacturer; 65% agri irrigation; PVC resin also | Rev ₹4,142 Cr (FY25); EBITDA ~14%; Mkt cap ~₹8,500 Cr | Leader |
 | **PVC/HDPE Pipes (plumbing + water)** | Prince Pipes & Fittings Ltd | Yes | NSE: PRINCEPIPE | Integrated pipes; agriculture, plumbing, borewell; targeting 12–15% vol growth | Rev ~₹3,200 Cr (FY26E); Mkt cap ~₹3,500 Cr | Challenger |
@@ -486,6 +519,7 @@ India loses an estimated **30–50% of treated water** through Non-Revenue Water
 | **Ductile Iron Pipes** | Electrosteel Castings Ltd | Yes | NSE: ELECTCAST | DI pipes for water mains, sewerage; key supplier to water utilities | Rev ~₹3,500 Cr (FY25E); Mkt cap ~₹5,000 Cr | Leader |
 | **Large-diameter Steel/DI Pipes** | Jindal Saw Ltd | Yes | NSE: JINDALSAW | LSAW, SAW, DI pipes; large water transmission mains | Rev ~₹18,000 Cr total; Mkt cap ~₹12,000 Cr | Challenger |
 | **Hume Pipes / Pressure Pipes** | Indian Hume Pipe Company | Yes | NSE: INDHUMPIP | RCC hume pipes; storm water drains, culverts, sewer | Rev ~₹900 Cr (FY25E); Mkt cap ~₹1,200 Cr | Niche |
+| **Municipal STP/WTP EPC + HAM** | Enviro Infra Engineers Ltd | Yes | NSE: ENVIROINFRA | EPC and HAM for STPs and water supply projects for govt clients; IPO Nov 2024; expanding into renewable energy (wind EPC, BESS) | Rev ₹1,146 Cr (FY26, +7.5% YoY); OB ₹6,814 Cr (+242% YoY); EBITDA margin 24.2%; Mkt cap ~₹3,000 Cr | Challenger |
 
 ---
 
@@ -510,9 +544,9 @@ India loses an estimated **30–50% of treated water** through Non-Revenue Water
 
 **Va Tech Wabag (NSE: WABAG)**
 - Stage in chain: Integrated technology + EPC + O&M for water and wastewater; primary and service activities
-- What makes them interesting: WABAG is India's only globally competitive water technology company, with proprietary processes (patented SBR, MBBR, ZLD configurations) and active projects in 25 countries including India, Saudi Arabia, North Africa, and Southeast Asia. The company is net cash positive at ₹100 Cr debt on a ₹3,944 Cr revenue base — rare in capital-intensive EPC. Its O&M book is growing as a share of total order book (now ~30%), meaningfully improving revenue quality. The ₹17,235 Cr order backlog at 4.4x revenue provides exceptional visibility. New growth vectors include desalination for coastal India and data centre water recycling.
-- Key financials: FY26 revenue ₹3,944 Cr (+20% YoY); PAT ₹373 Cr (+27%); EBITDA margin ~13.3%; order book ₹17,235 Cr; market cap ~₹13,154 Cr
-- Watch factor: Increasing international order mix (Middle East, Africa) introduces currency and geopolitical risk; execution at scale of 4x revenue coverage book requires tight project management
+- What makes them interesting: WABAG is India's only globally competitive water technology company, with proprietary processes (patented SBR, MBBR, ZLD configurations) and active projects in 25 countries including India, Saudi Arabia, North Africa, and Southeast Asia. The company is net cash positive — rare in capital-intensive EPC. Its O&M book is growing as a share of total order book (now ~30%), meaningfully improving revenue quality. The ₹17,200 Cr order backlog at 4.4x revenue provides exceptional visibility. Management has guided 15–20% revenue CAGR through FY28, targeting EBITDA margins of 13–15% and RoCE above 20%. New growth vectors include desalination for coastal India and data centre cooling water recycling.
+- Key financials: FY26 revenue ₹3,944 Cr (+21% YoY); PAT ₹370 Cr (+26% YoY); EBITDA margin ~13%; order book ₹17,200 Cr; net cash positive; dividend raised 25% FY26; market cap ~₹13,154 Cr
+- Watch factor: Increasing international order mix (Middle East, Africa) introduces currency and geopolitical risk; JJM Phase 2 quality pivot may slow new domestic EPC ordering while boosting O&M attachment
 
 **Ion Exchange (India) (NSE: IONEXCHANG)**
 - Stage in chain: All primary activities — chemicals supply (inbound), EPC (operations), consumer products (marketing), O&M (service)
@@ -522,9 +556,9 @@ India loses an estimated **30–50% of treated water** through Non-Revenue Water
 
 **Kirloskar Brothers (NSE: KIRLOSBROS)**
 - Stage in chain: Equipment manufacturing — pumps and fluid management systems; inbound and operations support
-- What makes them interesting: Kirloskar Brothers is a 135-year-old institution that is India's largest pump manufacturer. It supplied pumps for the Sardar Sarovar, Indira Gandhi Canal, and numerous water supply schemes. The company has been on a strong recovery — operating margins expanded from 11% (FY23) to 14% (FY25), with PAT nearly doubling. A major beneficiary of JJM and AMRUT 2.0, which mandate pump replacements and new pump stations across thousands of locations. The company also has an international business (South Africa, Middle East) and a premium KSB-grade product range.
-- Key financials: FY25 revenue ₹4,492 Cr; PAT ₹419 Cr; EBITDA margin ~14%; market cap ~₹8,000 Cr
-- Watch factor: Competition from energy-efficient pump imports (Grundfos, KSB Europe) in premium municipal segment; also monitoring Kirloskar Brothers' ability to transition from project pumps to long-term O&M pump service contracts
+- What makes them interesting: Kirloskar Brothers is a 135-year-old institution that is India's largest pump manufacturer. It supplied pumps for the Sardar Sarovar, Indira Gandhi Canal, and numerous water supply schemes. The company has been on a multi-year recovery — operating margins expanded from 11% (FY23) to 13.7% (FY26), with PAT growing strongly. A major beneficiary of JJM and AMRUT 2.0, which mandate pump replacements and new pump stations across thousands of locations. JJM Phase 2 quality mandate is a tailwind: functional connection verification and source strengthening projects require pump upgrades and replacements. The international order book grew 21% YoY — South Africa, Middle East, and industrial segments diversifying beyond domestic government dependency.
+- Key financials: FY26 revenue ₹4,538 Cr; PAT ₹377 Cr; EBITDA margin 13.7%; total order book ₹3,949 Cr (domestic +30% YoY, international +21% YoY); market cap ~₹8,000 Cr
+- Watch factor: Strategic pivot toward high-margin services and Industry 4.0 adoption is the right direction but will take time to show in margins; competition from energy-efficient pump imports (Grundfos, KSB Europe) in premium municipal segment
 
 **EMS Limited (NSE: EMSLIMITED)**
 - Stage in chain: EPC operations — specialist municipal STP, WTP, and sewer network contractor
@@ -534,15 +568,21 @@ India loses an estimated **30–50% of treated water** through Non-Revenue Water
 
 **Welspun Enterprises (NSE: WELENT)**
 - Stage in chain: Water infrastructure EPC and HAM; large-scale water supply and wastewater treatment
-- What makes them interesting: Welspun Enterprises has repositioned from a roads-and-infra company to a **water-first infrastructure developer**. Water now represents ~64% of its ₹13,665 Cr order book, anchored by its single-largest-ever order of ₹4,636 Cr from BMC for the Dharavi Wastewater Treatment Facility. The HAM model suits Welspun's balance sheet strength (Welspun Group backing) — it can fund 40% upfront and earn annuity income over 15 years. FY25 EBITDA margin of 20.4% is exceptional for an EPC company, reflecting the annuity income from HAM projects.
-- Key financials: FY25 revenue ₹3,584 Cr (+25% YoY); EBITDA ₹730 Cr (20.4% margin); PAT ₹354 Cr; market cap ~₹7,170 Cr; order book ₹13,665–14,800 Cr
-- Watch factor: Heavy reliance on Maharashtra (BMC) creates geographic concentration; monitor state government payment discipline for HAM annuity cash flows
+- What makes them interesting: Welspun Enterprises has repositioned from a roads-and-infra company to a **water-first infrastructure developer**. Water now represents 80%+ of its order book, anchored by its single-largest-ever order of ₹4,636 Cr from BMC for the Dharavi Wastewater Treatment Facility. The HAM model suits Welspun's balance sheet strength (Welspun Group backing) — it can fund 40% upfront and earn annuity income over 15 years. The order book has surged to ₹19,739 Cr (+44% YoY from ₹13,665 Cr FY25) — one of the strongest order book growth rates in the water sector. 9M FY26 revenue ₹2,530 Cr (+18% YoY) with 13.7% operating margin and PAT ₹242 Cr (+24% YoY) confirm sustained execution.
+- Key financials: FY25 revenue ₹3,584 Cr; EBITDA margin 20.4%; PAT ₹354 Cr; market cap ~₹7,170 Cr; order book ₹19,739 Cr (as of early 2026; +44% YoY)
+- Watch factor: Heavy reliance on Maharashtra (BMC) creates geographic concentration; HAM annuity cash flows require state payment discipline; at 5.5x book-to-bill, execution capacity is the binding constraint
 
 **Praj Industries (NSE: PRAJIND)**
 - Stage in chain: Industrial ZLD and wastewater EPC + technology; process innovation
 - What makes them interesting: Praj is India's only technology company that has credibly combined **industrial wastewater treatment with biogas/bioenergy recovery**. Its Centre of Excellence in Pune develops process technologies for ZLD with >98% water and resource recovery — a technically differentiated position versus pure EPC players. Praj benefits from CPCB's increasingly stringent ZLD mandates (now covering textiles, tanneries, sugar, dairy, pharmaceuticals), which are driving a massive replacement and upgrade cycle in industrial ETPs. The company also has a growing international business and is exploring circular economy water solutions.
 - Key financials: FY25 revenue ₹3,228 Cr; diversified across bioethanol, water, and HiPurity; EBITDA margins ~12–14%; market cap ~₹8,500 Cr
 - Watch factor: Praj's water segment competes with Thermax and WABAG for large industrial contracts; bioethanol remains the dominant segment, so watch for water segment share growing as ZLD mandates tighten
+
+**Enviro Infra Engineers (NSE: ENVIROINFRA)**
+- Stage in chain: EPC operations — municipal STP/WTP and water supply EPC/HAM contractor
+- What makes them interesting: Enviro Infra is the freshest listed water EPC company (IPO November 2024, listed at ₹220 vs ₹148 issue price — 49% listing gain) and one of the most underfollowed. The FY26 order book of ₹6,814 Cr is +242% YoY — implying a massive order intake event in FY26, likely from government water supply scheme awards under JJM and state water boards. At 5.9x revenue, the book-to-bill is among the highest in the sector; this provides 3–4 years of revenue visibility. EBITDA margin of 24.2% is exceptional for a pure-play EPC company — suggesting a high share of HAM/DBOOT project mix (which includes O&M income) rather than pure civil EPC. The company is also diversifying into renewable energy (acquired wind EPC firm Suyog Urja; 930 MWh BESS win from NTPC) — a strategic hedge as government water budgets plateau.
+- Key financials: FY26 revenue ₹1,146 Cr (+7.5% YoY); order book ₹6,814 Cr (+242% YoY); EBITDA margin 24.2%; market cap ~₹3,000 Cr
+- Watch factor: Exchange sought clarification on Q4 FY26 results — governance/disclosure quality needs monitoring for a recently listed company; 242% order book surge requires execution capacity verification; renewable pivot is early stage and diverts management attention from water core
 
 ---
 
@@ -581,7 +621,7 @@ A second non-obvious insight: **the real competitive threat is not domestic EPC 
 
 ---
 
-*Analysis prepared June 2026. Sources: Va Tech Wabag FY26 Investor Meet; Ion Exchange India FY25 Annual Report; EMS Limited company filings; Welspun Enterprises FY25 Annual Report; Kirloskar Brothers FY25 Results; Praj Industries Q4 FY25 Results; Jal Jeevan Mission PIB data (October 2025); Budget 2025–26 JJM allocation data; AMRUT 2.0 progress reports (MoHUA, August 2025); Mordor Intelligence India Desalination Market Report 2025; India Water Portal Budget analysis; AngelOne water treatment sector report March 2025.*
+*Analysis prepared July 2026. Sources: Va Tech Wabag FY26 Investor Meet (InvestyWise / Whalesbook); Kirloskar Brothers FY26 Results (TradingView / Whalesbook); Welspun Enterprises 9M FY26 Results; Ion Exchange India 9M FY26 Results; Enviro Infra Engineers FY26 Results (RealtyNMore); EMS Limited company filings; Praj Industries Q4 FY25 Results; Jal Jeevan Mission progress (ejalshakti.gov.in); Budget 2026-27 Jal Shakti allocation (PRS India demand for grants analysis; indiabudget.gov.in); AMRUT 2.0 progress reports (MoHUA, August 2025); Namami Gange II progress (NMCG / Indian Infrastructure June 2026); Frost & Sullivan India Water Sector Budget 2026-27 analysis; Down to Earth Budget 2026 water sector coverage; India Water Portal Budget 2026-27 analysis.*
 
 ---
 
