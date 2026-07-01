@@ -1,7 +1,7 @@
 # Electronics Manufacturing Services (EMS) — India Value Chain Analysis
 
 **Segment:** Electronics Manufacturing Services (EMS) — PCB Assembly (PCBA), Box-Build / System Integration, Component Manufacturing, ODM/OEM Services, Semiconductors, Display, Mobile & Consumer Electronics Manufacturing  
-**Date:** June 2026  
+**Date:** July 2026  
 **Frameworks:** Porter's Value Chain · Porter's Five Forces · Gereffi GVC · Linkages & Leverage Points · Blue Ocean Four Actions
 
 ---
@@ -50,12 +50,13 @@ flowchart LR
 
 India is the world's second-largest mobile phone manufacturer by volume (surpassing Vietnam in 2024–25), assembling ~55 million iPhones in FY25 — approximately 25% of global iPhone output. However, India remains a **follower** in component manufacturing (PCB, display, camera modules, semiconductors) with ~88% import dependence on bare PCBs and near-total import dependence on displays and advanced semiconductors. The strategic window of 2024–2030 represents India's once-in-a-decade opportunity to move from assembly to component manufacturing before the China+1 wave consolidates elsewhere.
 
-**Key numbers:**
+**Key numbers (updated July 2026):**
 - India's electronics production: ₹5.25 lakh crore (FY25), up from ₹2.13 lakh crore in FY21
-- iPhone exports from India: ~$23 billion (FY25, India's largest export category)
-- India EMS market size: ~$40–65 billion (2025, estimates vary by scope)
+- Total India electronics exports: **$47.96 billion (FY26)**, up from $38.56 billion (FY25) — +24% YoY
+- iPhone exports from India to US alone: **$19.68 billion (FY26)** — +86% YoY; India now supplies 15–25% of global iPhone output
+- India EMS market size: **$65 billion (2025)**, growing at 17.5% CAGR to ~$198 billion by 2032
 - PLI for Large-Scale Electronics: ₹41,000 Cr outlay; PLI for IT Hardware: ₹17,000 Cr outlay
-- Electronics Component Manufacturing Scheme (ECMS): ₹55.32 billion grants cleared for 7 projects (2025)
+- **ECMS (Electronics Component Manufacturing Scheme)**: Budget 2026-27 hiked outlay from ₹22,919 Cr to **₹40,000 Cr** (+75%); 46 applications approved across 11 states; ₹54,567 Cr investments committed; ₹1.15 lakh Cr total expected investment commitments — nearly double the original target
 
 ---
 
@@ -92,12 +93,17 @@ India is the world's second-largest mobile phone manufacturer by volume (surpass
 **What it involves:** This is the core value-addition stage — SMT (Surface Mount Technology) lines, wave soldering, selective soldering, AOI (Automated Optical Inspection), X-ray inspection, ICT (In-Circuit Testing), functional testing, box-build assembly, system integration, firmware programming, burn-in testing, and environmental stress screening. It includes both PCBA and final assembly.
 
 **Sub-stages:**
-1. **Bare PCB fabrication** — etching copper on laminates; India is nascent here (~12% domestic sourcing)
-2. **PCBA (SMT + THT)** — soldering components onto PCBs; India's strongest EMS activity
+1. **Bare PCB fabrication** — etching copper on laminates; India is nascent here (~12% domestic sourcing); AT&S India (Nanjangud, Karnataka) producing HDI boards; ECMS-funded PCB projects now approved across multiple states
+2. **PCBA (SMT + THT)** — soldering components onto PCBs; India's strongest EMS activity; India's listed EMS companies hold ~28% of India's smartphone production share in FY26
 3. **Mechanical fabrication** — plastic injection moulding, metal stamping, die-casting
-4. **Sub-assembly** — camera modules, power supplies, display modules, battery packs
+4. **Sub-assembly** — camera modules, power supplies, display modules, battery packs; **Dixon-HKC Overseas display module sub-assembly JV** (April 2025, ₹2,500 Cr combined PLI investment with Chongqing Yuhai for mechanical enclosures) — India's first step toward domestic display sub-assembly
 5. **Box-build / system integration** — mechanical assembly, cable harness, firmware flash
 6. **Testing & quality** — automated testing, burn-in, BIS compliance verification
+
+**Key 2025–26 structural developments:**
+- **Dixon-HKC Overseas display module sub-assembly JV** (April 2025): India's first PLI-backed domestic display module sub-assembly capacity. Combined with the Chongqing Yuhai mechanical enclosures JV (₹2,500 Cr combined), Dixon is building a partial backward integration into display sub-assembly — not panel manufacturing yet, but the first link in that chain.
+- **Amber Enterprises–Korea Circuit HDI semiconductor substrate JV** (February 2025): Amber is investing ₹4,200 Cr with Korea Circuit (South Korea) to establish high-density interconnect (HDI) semiconductor substrate manufacturing at Jewar, Uttar Pradesh. This is India's first serious attempt at domestic PCB substrate manufacturing for semiconductors — the highest-value node in the PCB chain. HDI substrates are the physical carrier for flip-chip and BGA semiconductor packages; current import dependence is near-100%.
+- **Tata Electronics FY26 expansion**: ₹30 billion capital infusion in FY26; Tata now operates three Apple manufacturing facilities in India (Hosur, Narsapuram, and the former Pegatron Hosur facility acquired FY25); Tata Electronics' semiconductor unit (TSAT Jorhat) anticipates ₹3,000 Cr losses in its ramp-up phase — early-stage OSAT scaling losses that are structurally expected.
 
 **Key cost drivers:**
 - Labour (5–15% of revenue for consumer EMS; higher for complex products)
@@ -285,16 +291,18 @@ India is the world's second-largest mobile phone manufacturer by volume (surpass
 
 **Where Indian firms are weak:**
 - Lack of leverage with Tier-1 component manufacturers (TSMC, Samsung Semiconductor, Murata) due to smaller scale vs. Foxconn/Flextronics globally
-- China component sourcing risk — US tariffs on Chinese goods are cascading through the supply chain
-- ECMS (Electronics Component Manufacturing Scheme) — ₹22,919 Cr approved in 2025 for domestic component projects — still in early build-out phase
+- China component sourcing risk — US tariffs on Chinese goods are cascading through the supply chain; India is benefiting from China+1 for assembly but still dependent on China for components
+- PCB substrate and advanced packaging materials remain 100% imported — Amber-Korea Circuit JV (₹4,200 Cr) is the first serious domestic attempt
 
-**Key procurement dependencies (import reliance):**
-- Bare PCBs: ~88% imported
-- Displays (LCD/OLED panels): ~100% imported
-- Semiconductor ICs: ~98% imported
+**ECMS Update (Budget 2026-27):** Outlay hiked from ₹22,919 Cr to **₹40,000 Cr** — the scheme is now India's single largest component-level electronics manufacturing incentive. 46 projects approved; ₹54,567 Cr investment committed; focus areas: PCB substrates, display components, passive components, camera module components, and capital equipment for electronics manufacturing.
+
+**Key procurement dependencies (import reliance — July 2026):**
+- Bare PCBs: ~88% imported (PCB substrate JVs approved under ECMS; 3–5 year timeline to materialize)
+- Display module sub-assembly: now being addressed by Dixon-HKC JV; panels (~100%) still imported
+- Semiconductor ICs: ~98% imported (TSAT Jorhat in ramp-up; CG Semi Sanand operational Aug 2025 — first domestic OSAT)
 - Camera modules: ~70–80% imported
-- Batteries/cells: ~95% imported (BYD, CATL dominate)
-- Passive components (capacitors, resistors): ~60% imported
+- Batteries/cells: ~95% imported (BYD, CATL dominate; ECMS battery cell projects in early approval)
+- Passive components (capacitors, resistors): ~60% imported; Murata, TDK, Yageo dominate
 
 ---
 
@@ -330,9 +338,13 @@ India's EMS sector is intensely competitive between Indian players for the same 
 | Threat of substitutes | LOW–MEDIUM | No substitute for physical assembly; OEM insourcing is the real risk |
 | Rivalry intensity | HIGH | PLI-driven capacity build; undifferentiated commodity segments; many competitors |
 
-### Overall Attractiveness Verdict: **MEDIUM**
+### Overall Attractiveness Verdict: **MEDIUM (upgrading)**
 
 The EMS sector is structurally challenged at the commodity end — low margins (3–5% EBITDA), high capital requirements, intense rivalry, and powerful buyers — but is structurally attractive for players who can differentiate into complex, high-reliability EMS (aerospace, defence, medical, automotive), ODM, or vertically integrated component-to-product businesses; these niches earn 12–18% EBITDA and command 40–80x P/E multiples from the market.
+
+**Capital Cycle Update (July 2026):** The sector is entering a second-phase inflow driven not just by assembly capacity (Phase 1, 2021–2025) but by **component manufacturing** (Phase 2, 2025–2031). The ECMS at ₹40,000 Cr, Amber's ₹4,200 Cr HDI substrate JV, Dixon's display sub-assembly JV, CG Semi's Sanand OSAT, and TSAT Jorhat ATMP collectively represent India's first wave of component-level capital inflow. This is the transition the sector's strategic narrative has been projecting for 3 years. Investors who positioned in assembly-focused names (Dixon, Amber) for Phase 1 need to now also track component-focused names (Amber's semiconductor substrate play, CG Power via CG Semi) for Phase 2 re-rating.
+
+**Investor stance:** Accumulate companies with active component manufacturing investments (Amber — substrate JV, CG Power — OSAT). For commodity EMS (Dixon, Syrma), watch iPhone export volumes ($47.96 Bn total electronics exports FY26) as the demand indicator; watch ECMS approval timelines as the supply-side indicator of component chain development.
 
 ---
 
@@ -428,6 +440,22 @@ The ECMS has approved projects for multi-layer and HDI PCB manufacturing in 2025
 
 ---
 
+## 5.5 Upcoming Catalysts and Key Triggers
+
+| Catalyst / Trigger | Timeline | Companies Likely to Benefit |
+|---|---|---|
+| Amber–Korea Circuit HDI semiconductor substrate facility first production (Jewar, UP) | FY28 | AMBER (direct; first domestic PCB substrate for semiconductors); re-rating trigger if India's first HDI substrate goes into production |
+| Dixon-HKC Overseas display module sub-assembly first mass production | FY27 | DIXON (reduces display import cost on TVs/monitors; improves PLI incremental revenue calculation) |
+| ECMS second tranche approvals — passive components, battery cells | FY27 | New SME entrants (Micro), SAIL/Polycab (if awarded for materials supply), Kaynes/Syrma (anchor EMS customers for domestic component supply) |
+| CG Semi Sanand OSAT first commercial chip delivery revenue | FY26–FY27 | CGPOWER (direct P&L contribution from CG Semi begins) |
+| TSAT Jorhat ATMP facility first commercial OSAT revenue (post ramp-up losses) | FY27–FY28 | Tata Electronics (unlisted); MTAR (precision tooling supply to TSAT) |
+| Apple India production share crossing 30% of global iPhone output | FY27 | Foxconn India (unlisted), Tata Electronics (unlisted); listed proxy: Salcomp (chargers), Polycab (cables), ABB (power infra) |
+| India total electronics exports crossing $60 Bn milestone | FY27–FY28 | Dixon (DIXON), Foxconn/Tata (unlisted), EMS logistics (DELHIVERY, TVSSCS) |
+| Syrma SGS–Kaga Electronics JV first production revenue | FY27 | SYRMA (new Japanese OEM customer category opens; potential re-rating from Japanese electronics brand wins) |
+| PLI IT Hardware Scheme Phase 2 announcement (servers, storage, networking) | FY27 | Netweb Technologies (NETWEB), Kaynes (KAYNES), Dixon IT hardware division |
+
+---
+
 ## 6. Indian Company Landscape
 
 ### Listed Companies — EMS & Electronics Manufacturing
@@ -487,16 +515,17 @@ The ECMS has approved projects for multi-layer and HDI PCB manufacturing in 2025
 - Watch factor: OSAT facility commissioning and first semiconductor test revenues — this would be a material de-risking of the China dependency for India's chip supply chain.
 
 **Tata Electronics Pvt. Ltd (Unlisted)**
-- Stage in chain: iPhone final assembly (PCBA + box-build), semiconductor ATMP (via TSAT in Jorhat, Assam)
-- What makes them interesting: Tata Electronics is arguably the most strategically important company in India's EMS landscape — and it is unlisted. The Wistron India acquisition (2024) and organic factory builds in Tamil Nadu make Tata the largest Apple manufacturing partner in India, assembling ~35% of India's iPhone output in FY25. At ₹66,601 Cr revenue in FY25 (US iPhone exports alone = ₹23,112 Cr, or 37% of revenue), Tata Electronics is larger than all listed Indian EMS companies combined. Its TSAT (Tata Semiconductor Assembly and Test) facility in Jorhat, Assam targets ATMP for automotive-grade and industrial chips — a critical functional upgrade move. When and if Tata Electronics lists, it would be the largest IPO in India's electronics sector history.
-- Key financials: Revenue ~₹66,601–75,367 Cr (FY25 depending on reporting period); Unlisted — financials inferred from media reports
-- Watch factor: IPO timeline (if any) and TSAT Jorhat commissioning — could reshape the market cap landscape of India EMS.
+- Stage in chain: iPhone final assembly (PCBA + box-build) at three facilities; semiconductor ATMP (via TSAT in Jorhat, Assam)
+- What makes them interesting: Tata Electronics is arguably the most strategically important company in India's EMS landscape — and it is unlisted. Tata now operates **three Apple manufacturing facilities** in India: (1) Hosur (formerly Wistron, acquired 2024), (2) Narsapuram, and (3) the former Pegatron Hosur facility (acquired FY25 — Tata is now Apple's single largest India EMS partner, having absorbed two of Apple's three contract manufacturers). In FY26, Tata infused ₹30 billion of capital into the entity; India-to-US iPhone exports hit $19.68 Bn in FY26 (+86% YoY), with Foxconn and Tata Electronics as the primary drivers. The TSAT semiconductor ATMP in Jorhat is scaling — losses of ~₹3,000 Cr anticipated in the semiconductor unit (expected ramp-up losses as FAA/EASA and automotive-grade certifications are obtained).
+- Key financials: Revenue ~₹66,601 Cr+ (FY25; FY26 significantly higher given Apple India production ramp); ₹30 Bn capital infusion FY26; Unlisted — financials inferred from media reports
+- Watch factor: TSAT Jorhat first commercial chip delivery revenue (the inflection from loss to profit will be the re-rating catalyst if/when Tata Electronics lists); Pegatron facility integration; whether Tata Electronics files DRHP — a Tata Electronics IPO would be the largest in India's electronics sector history.
 
 **Amber Enterprises India Ltd (AMBER)**
-- Stage in chain: AC components (room AC, commercial AC), EMS (industrial, railway, consumer durables), PCBA
-- What makes them interesting: Amber began as an AC component supplier to Voltas, Daikin, and Lloyd — essentially a captive supplier. It has since transformed into a multi-segment EMS player through acquisitions (Shogini Technoarts for PCBs, Unitronics for industrial EMS, Power-One Microsystem for power electronics). The Electronics Division grew 49% YoY to ₹3,268 Cr in FY26, showing the transformation is working. The AC components business (₹8,383 Cr) remains the anchor — India's room AC market is growing at 20%+ driven by rising temperatures and urbanisation. Amber's vertical integration (from components to complete AC assemblies) is a structural differentiator no other listed EMS company has replicated.
+- Stage in chain: AC components (room AC, commercial AC), EMS (industrial, railway, consumer durables), PCBA — and now: **semiconductor substrate manufacturing** (India's first)
+- What makes them interesting: Amber began as an AC component supplier to Voltas, Daikin, and Lloyd — essentially a captive supplier. It has since transformed into a multi-segment EMS player through acquisitions (Shogini Technoarts for PCBs, Unitronics for industrial EMS, Power-One Microsystem for power electronics). The Electronics Division grew 49% YoY to ₹3,268 Cr in FY26. The AC components business (₹8,383 Cr) remains the anchor — India's room AC market is growing at 20%+ driven by rising temperatures and urbanisation. Most significantly, in **February 2025 Amber announced a ₹4,200 Cr JV with Korea Circuit (South Korea) to manufacture HDI semiconductor substrates at Jewar, Uttar Pradesh** — India's first domestic attempt at this high-value component category. HDI substrates are the physical carrier for flip-chip and BGA semiconductor packages; 100% of India's current HDI substrate supply is imported. This JV redefines Amber's long-term earnings potential and its position in the value chain.
 - Key financials: Revenue ₹12,186 Cr (FY26, up 22% YoY); EBITDA ~₹970 Cr (8% margin); PAT ₹338 Cr; Mkt cap ~₹18,000 Cr
-- Watch factor: Margin recovery in FY27 — commodity price pressure and wage hikes compressed margins; the medium-term story is whether Amber's acquisitions create genuine synergies or remain standalone P&L units.
+- Watch factor: Korea Circuit JV regulatory clearances and ECMS eligibility status; margin recovery in FY27 from AC EMS core; whether ECMS subsidy (ECMS outlay raised to ₹40,000 Cr in Budget 2026-27) applies to the ₹4,200 Cr investment — if so, it materially improves JV economics.
+- Investment angle: Amber is being priced as an AC EMS business at 8% EBITDA. The Korea Circuit HDI substrate JV is a category-defining move that the market has not priced. Semiconductor substrates earn 20–25% gross margin vs. Amber's 8% EBITDA. At current levels, investors are getting the AC/EMS business at a fair price and India's first semiconductor substrate JV as a near-zero-cost option. The transition from "India's AC EMS company" to "India's first semiconductor substrate manufacturer" is a 40–60x P/E re-rating event if the JV executes on schedule (~FY28 first production).
 
 **Syrma SGS Technology Ltd (SYRMA)**
 - Stage in chain: PCBA, box-build EMS across RFID, consumer electronics, IT hardware, medical, auto
@@ -518,7 +547,7 @@ The ECMS has approved projects for multi-layer and HDI PCB manufacturing in 2025
 
 The conventional narrative about India's EMS boom focuses on Apple's diversification from China and the PLI scheme's role in attracting assembly work. This is real, but it masks a more important structural reality: **India is assembling a $23 billion iPhone export story while importing nearly every component that goes into those iPhones.** The value added in India on a ₹1,00,000 iPhone is approximately ₹8,000–12,000 — primarily labour and local overhead. Apple captures ₹45,000+. TSMC, Samsung Semiconductor, Murata, LG Display and others capture another ₹35,000. The national obsession with assembly-level EMS growth is building a house on borrowed foundations — foundations owned by China, Taiwan, South Korea, and Japan.
 
-The non-obvious insight is this: **India's PLI for Large-Scale Electronics (₹41,000 Cr) incentivises the wrong stage of the chain.** It maximises assembly output (which is measurable, visible, and exportable) while under-incentivising component manufacturing (which is slower, requires deeper technology, and has less political visibility). The ECMS (Electronics Component Manufacturing Scheme) addresses this, but its ₹55 billion approved grants are dwarfed by the ₹5.25 lakh crore of electronics production that depends on imported components. The leverage point is not more assembly capacity — India has enough of that — but a focused, patient 10-year investment in PCB fabrication, display panel manufacturing, power semiconductor fabs, and battery cell chemistry. The companies that build these upstream capabilities will capture 5–10x more value per unit of output than any assembly-only EMS player.
+The non-obvious insight is this: **India's PLI for Large-Scale Electronics (₹41,000 Cr) incentivised the wrong stage of the chain — but the market is now correcting.** PLI maximised assembly output while under-incentivising component manufacturing. The ECMS, originally ₹22,919 Cr, was inadequate relative to the ₹5.25 lakh crore electronics production base importing nearly every component. But in Budget 2026-27, the ECMS outlay was raised to **₹40,000 Cr (+75%)** — the government has explicitly acknowledged the assembly-vs-components imbalance and is shifting capital toward the upstream. Evidence: 46 projects approved under ECMS; ₹54,567 Cr investments committed across 11 states; **Amber-Korea Circuit ₹4,200 Cr HDI substrate JV** (India's first semiconductor substrate manufacturing attempt); **Dixon-HKC display module sub-assembly JV** (₹2,500 Cr); **CG Semi OSAT operational at Sanand** (India's first commercial chip packaging facility). The strategic insight in the previous version of this analysis was right — and is now being vindicated in real capital allocation. The companies in Phase 2 of this transition (component manufacturing) are the next 3–5 year re-rating stories; Phase 1 (assembly) is largely priced in.
 
 ### Blue Ocean Opportunity — Four Actions Framework
 
@@ -563,9 +592,15 @@ India's EMS ambition will be constrained by a shortage of IPC-certified technici
 - CG Semi OSAT launch August 2025: [Analytics India Mag / BISINFOTECH](https://analyticsindiamag.com/ai-trends/these-indian-facilities-help-assemble-test-the-chips-that-power-your-gadgets/)
 - PLI disbursement ₹28,748 Cr as of Dec 2025: [PIB / Business Standard](https://www.business-standard.com/finance/news/pli-cumulative-incentive-disbursement-reached-23-946-crore-jitin-prasada-125121200986_1.html)
 - PCB import dependence ~88%: [Avendus / CNBC India](https://www.cnbc.com/2025/10/29/india-is-dependent-on-china-for-electronic-components-now-its-trying-to-change-that-.html)
-- ECMS ₹55.32 billion approved: [Astute Group](https://www.astutegroup.com/news/general/india-accelerates-electronics-localisation-as-ecms-clears-4-6bn-wave-of-component-projects/)
+- ECMS ₹55.32 billion originally approved: [Astute Group](https://www.astutegroup.com/news/general/india-accelerates-electronics-localisation-as-ecms-clears-4-6bn-wave-of-component-projects/)
+- **ECMS outlay hiked to ₹40,000 Cr (Budget 2026-27)**: [Business Today](https://www.businesstoday.in/union-budget/news/story/budget-2026-govt-hikes-ecms-outlay-to-rs-40000-crore-to-boost-electronics-component-manufacturing-513999-2026-02-01); [DD News](https://ddnews.gov.in/en/union-budget-2026-27-boosts-electronics-manufacturing-with-rs-40000-crore-outlay-for-ecms/)
+- ECMS 46 approvals, ₹54,567 Cr investments, ₹1.15 lakh Cr expected total: [Vision IAS](https://visionias.in/current-affairs/monthly-magazine/2026-03-31/economy/electronics-components-manufacturing-scheme)
+- **Amber–Korea Circuit HDI substrate JV ₹4,200 Cr (Feb 2025)**: [WhalesBook / India EMS Sector](https://www.whalesbook.com/news/English/industrial-goodsservices/Indias-EMS-Sector-Shifts-Gears-From-Assembly-to-Component-Manufacturing-with-Major-Capex-Plans/68e0da4fc75e44d616772002)
+- **Dixon HKC display module + Chongqing Yuhai JV (April 2025)**: [WhalesBook EMS Sector](https://www.whalesbook.com/news/English/industrial-goodsservices/Indias-EMS-Sector-Shifts-Gears-From-Assembly-to-Component-Manufacturing-with-Major-Capex-Plans/68e0da4fc75e44d616772002)
+- **India electronics exports $47.96 Bn FY26**: India to US iPhone exports $19.68 Bn (+86% YoY) — [NiftyTrader / EMS update](https://www.niftytrader.in/markets/dixon-ems-28pc-smartphone-share-fy26/)
+- **Tata Electronics ₹30 Bn capital infusion FY26**: [Electronics For You](https://www.electronicsforyou.biz/industry-buzz/tata-boosts-iphone-manufacturing-arm-with-inr15-billion-infusion/)
 - EMS EBITDA margin benchmarks: [HDFC Securities EMS Thematic Apr 2026](https://www.hdfcsec.com/hsl.docs/EMS%20-%20Sector%20Thematic%20-%20Apr26%20-%20HSIE-202604061046234471873.pdf)
-- India EMS market size $65B estimate: [PS Market Research](https://www.psmarketresearch.com/market-analysis/india-electronics-manufacturing-services-market-report)
+- India EMS market size $65B, CAGR 17.5% to $198B by 2032: [PS Market Research](https://www.psmarketresearch.com/market-analysis/india-electronics-manufacturing-services-market-report)
 - Syrma SGS Kaga Electronics JV June 2026: [Business Standard](https://www.business-standard.com/markets/capital-market-news/syrma-sgs-tech-climbs-after-inking-pact-with-kaga-electronics-to-set-up-ems-facility-126062300251_1.html)
 - PG Electroplast FY26 guidance ₹6,355 Cr: [Scanx Trade / Business Standard](https://scanx.trade/stock-market-news/earnings/pg-electroplast-targets-5-800-crore-revenue-for-fy26-amid-challenging-market-conditions/24606228)
 
@@ -581,10 +616,10 @@ India's EMS ambition will be constrained by a shortage of IPC-certified technici
 flowchart LR
     subgraph SUPPORT["Support Activities"]
         direction TB
-        FI["Firm Infrastructure\n• MeitY\n• BIS (65+ product categories)\n• DPIIT (PLI administration)\n• ICEA / ELCINA"]
+        FI["Firm Infrastructure\n• MeitY\n• BIS (65+ product categories)\n• DPIIT (PLI + ECMS ₹40,000 Cr)\n• ICEA / ELCINA"]
         HR["HR Management\n• IITs (Madras, Bombay, Delhi)\n• CTTC Bhubaneswar\n• ESSCI (Electronics Sector Skills)"]
         TD["Technology Dev\n• Kaynes Technology (design centre)\n• Syrma SGS (design services)\n• C-DAC\n• SAMEER / ECIL (defence RandD)"]
-        PR["Procurement\n• Arrow / Avnet (global distributors)\n• TSMC / Samsung Semi (ICs, captive)\n• Murata / TDK (passives)\n• ECMS-funded domestic suppliers"]
+        PR["Procurement\n• Arrow / Avnet (global distributors)\n• TSMC / Samsung Semi (ICs, captive)\n• Murata / TDK (passives)\n• Amber-Korea Circuit (HDI substrate JV)\n• CG Semi (OSAT, domestic chip pkg)"]
     end
 
     subgraph PRIMARY["Primary Activities"]
