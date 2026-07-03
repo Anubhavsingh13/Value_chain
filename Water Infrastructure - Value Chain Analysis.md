@@ -19,6 +19,7 @@ This analysis covers the full spectrum of water and related infrastructure in In
 5. **Water supply infrastructure** — PVC/HDPE/DI pipes, water pumps, valves, flow meters, storage tanks, water towers
 6. **Irrigation infrastructure** — micro-irrigation (drip + sprinkler), canal-lining, lift irrigation, water-efficient systems for agriculture
 7. **Water technology and analytics** — IoT-enabled smart meters, SCADA/telemetry, Non-Revenue Water (NRW) reduction, water quality monitoring, digital twin of water networks
+8. **Groundwater recharge (GWR) using treated wastewater** — a niche, state-government-driven segment (pioneered at scale in Karnataka) that conveys treated municipal sewage to drought-prone regions to recharge aquifers, fill tanks and check dams, and enable borewell-based agricultural irrigation — effectively closing the loop between wastewater treatment (item 2) and irrigation (item 6)
 
 ### Core Product/Service Flow
 
@@ -95,6 +96,9 @@ Manufacturing of pumps, valves, pipes, water meters, packaged STP units, chemica
 **C. O&M / Operations Management** (Post-construction, recurring)
 Long-term operation and maintenance contracts (typically 5–15 years) for treated water quality, uptime SLAs, chemical management, and sludge disposal. Increasingly bundled with EPC under DBOOT / HAM structures.
 
+**D. Groundwater Recharge (GWR) & Lift Irrigation EPC** (Niche, state-government driven)
+Design and execution of large lift-irrigation schemes that convey treated municipal sewage (STP outflow) to drought-affected regions for aquifer recharge, tank-filling, and borewell-based agricultural irrigation — pioneered at scale in Karnataka. This sub-segment sits at the intersection of wastewater reuse and irrigation infrastructure (segment definition items 2, 6, and 8) and is typically executed as asset-light EPC + short-duration O&M contracts for state irrigation/minor irrigation departments rather than ULBs or NMCG.
+
 **Key cost drivers for EPC:**
 - Civil works (50–60% of project cost) — highly labour-intensive; local sub-contracting risk
 - Equipment procurement (20–30%) — international sourcing for high-end kit
@@ -120,6 +124,9 @@ Long-term operation and maintenance contracts (typically 5–15 years) for treat
 - **NCC Limited (NSE: NCC)** — diversified infrastructure; water segment growing under JJM
 - **L&T (NSE: LT)** — water and effluent treatment division; massive scale but water is a small % of overall ₹2.4 lakh Cr revenue
 - **Tata Projects** (unlisted, subsidiary of Tata Sons) — large-scale water and sanitation EPC
+
+*Groundwater recharge / treated wastewater reuse EPC (niche, Karnataka-led):*
+- **Denta Water and Infra Solutions (NSE: DENTA)** — India's sole listed pure-play in large-scale groundwater recharge using treated wastewater; flagship KC Valley project conveys ~440 MLD of recycled Bengaluru sewage to recharge 140+ tanks across drought-prone Kolar/Chikkaballapur; asset-light model (rents rather than owns heavy equipment); diversifying into railway and highway EPC; FY26 revenue ₹250 Cr (+23% YoY); listed Jan 2025
 
 *Equipment manufacturing (pumps):*
 - **Kirloskar Brothers (NSE: KIRLOSBROS)** — India's largest pump manufacturer for water/irrigation; FY26 revenue ₹4,538 Cr; EBITDA margin 13.7%; PAT ₹377 Cr; total order book ₹3,949 Cr (domestic +30% YoY, international +21% YoY)
@@ -496,6 +503,7 @@ India loses an estimated **30–50% of treated water** through Non-Revenue Water
 | 6 | **Water Technology PLI policy signal** — Industry lobbying for PLI scheme for domestic RO membrane and smart flow meter manufacturing; any Budget 2027-28 announcement would be a structural catalyst | Budget FY28 | WABAG, Praj, any domestic membrane manufacturer entering the space |
 | 7 | **Desalination scale-up** — Perur (TN) 400 MLD plant at 42% progress; additional coastal states facing water stress; WABAG has Chennai desalination reference | FY27–28 | WABAG (technology lead), Megha Engineering (EPC), DuPont/Toray (membranes) |
 | 8 | **Performance-based NRW contracts** — ULBs beginning to experiment with pay-per-KL-saved NRW reduction contracts as JJM Phase 2 focuses on functional connections and water quality verification | FY27 | Smart water analytics startups; WABAG digital division; Xylem India |
+| 9 | **Karnataka GWR / lift-irrigation programme expansion** — Government of Karnataka evaluating additional treated-wastewater-to-groundwater-recharge schemes beyond KC Valley; other water-stressed states (Tamil Nadu, Andhra Pradesh, Rajasthan) monitoring the model for replication | FY27–28 | Denta Water and Infra Solutions (first-mover domain expertise) |
 
 ---
 
@@ -528,6 +536,7 @@ India loses an estimated **30–50% of treated water** through Non-Revenue Water
 | **Flow Control Gates / Screens / Valves** | Jash Engineering Ltd | Yes | NSE: JASH | Only listed Indian manufacturer of water control gates, penstocks, stop logs, butterfly valves, bar & drum screens for WTPs, STPs, irrigation dams, and hydropower; exports to 45+ countries | Rev ₹736 Cr (FY26); Mkt cap ~₹3,181 Cr | Leader (niche) |
 | **Hume Pipes / Pressure Pipes** | Indian Hume Pipe Company | Yes | NSE: INDHUMPIP | RCC hume pipes; storm water drains, culverts, sewer | Rev ~₹900 Cr (FY25E); Mkt cap ~₹1,200 Cr | Niche |
 | **Municipal STP/WTP EPC + HAM** | Enviro Infra Engineers Ltd | Yes | NSE: ENVIROINFRA | EPC and HAM for STPs and water supply projects for govt clients; IPO Nov 2024; expanding into renewable energy (wind EPC, BESS) | Rev ₹1,146 Cr (FY26, +7.5% YoY); OB ₹6,814 Cr (+242% YoY); EBITDA margin 24.2%; Mkt cap ~₹3,000 Cr | Challenger |
+| **Groundwater Recharge (GWR) / Treated Wastewater Reuse EPC** | Denta Water and Infra Solutions Ltd | Yes | NSE: DENTA | Karnataka-focused civil EPC contractor; pioneer of large-scale groundwater recharge using treated municipal sewage (KC Valley project); lift irrigation; asset-light model; diversifying into railway/highway EPC; IPO Jan 2025 | Rev ₹250 Cr (FY26, +23% YoY); PAT ₹61 Cr (+15%); EBITDA margin ~19%; OB ₹728 Cr (~3x revenue); Mkt cap ~₹933 Cr | Leader (niche) |
 
 ---
 
@@ -603,6 +612,15 @@ India loses an estimated **30–50% of treated water** through Non-Revenue Water
 - Watch factor: KUSUM Phase 2 disbursement pace — state government subsidy release determines revenue recognition timing; central allocation slowdown hits receivables
 - **Investment angle:** Listed only a year ago with minimal analyst coverage and trading at ~13x FY26 PAT — a significant discount to Shakti Pumps (near-identical KUSUM solar pump business) despite similar growth rates and better margins. The valuation gap reflects recency-of-listing uncertainty, not a fundamental difference. As institutional coverage builds over the next 4–6 quarters, the discount should narrow — a convergence trade that requires only recognition, not a sector re-rating.
 
+**Denta Water and Infra Solutions (NSE: DENTA)**
+- Stage in chain: Operations — niche EPC sub-segment (groundwater recharge / treated wastewater reuse + lift irrigation); also O&M
+- Cap bucket: Small — Mkt cap ~₹933 Cr; listed January 2025
+- Analyst coverage: Under-researched (recently listed, minimal institutional coverage)
+- What makes them interesting: Denta occupies a structural niche that no other listed water company directly competes in — designing, building, and operating large-scale groundwater recharge (GWR) schemes that pump treated municipal sewage from Bengaluru's STPs to drought-prone districts (Kolar, Chikkaballapur) to refill tanks and check dams and raise borewell water tables for agriculture. Its flagship KC Valley project moves ~440 MLD of recycled sewage daily and has been credited with raising groundwater levels 58–73% in the command area, lifting agricultural output 11–42% and milk productivity ~33%. This is effectively the **reuse/irrigation end of the wastewater chain** (linking segment definition items 2, 6, and 8) — a segment the rest of this analysis's EPC players (WABAG, Ion Exchange, EMS) do not directly address, since their revenue stops at the STP gate rather than extending to what happens to the treated effluent afterward. The company runs an asset-light model (renting rather than owning heavy construction equipment), which supports high RoCE (18.8%) and RoE (14%) relative to peer EPC contractors. It has completed 27 water management projects for the Government of Karnataka to date and is now diversifying into railway and highway civil EPC — a scope expansion beyond its water niche.
+- Key financials: FY26 revenue ₹250 Cr (+23% YoY); PAT ₹61 Cr (+15% YoY); EBITDA margin ~19%; order book ₹728 Cr (~3x FY26 revenue); market cap ~₹933 Cr; promoter holding 71.9%; P/E ~15x (July 2026)
+- Watch factor: Revenue is heavily concentrated in Karnataka state government contracts (single-state, single-client-type concentration risk); the GWR model, while impactful, is a state-specific policy niche that has not yet been replicated by other states — a national scale-up is unproven; the railway/highway diversification is unrelated to the company's water moat and could dilute focus
+- **Investment angle:** The market is likely pricing Denta as a generic small-cap water/civil EPC contractor, but its actual moat is a first-mover position in a policy niche (treated-sewage-for-groundwater-recharge) that directly addresses two of India's biggest water problems simultaneously — urban sewage disposal and agrarian groundwater depletion — at a fraction of the capital cost of new dams or desalination. At ~15x P/E with a 3x book-to-bill and 18–19% EBITDA margins (above the 8–13% earned by pure-play municipal STP/WTP EPC peers), the discount looks more attributable to its recent listing (Jan 2025) and small size than to the underlying business quality. If even one other water-stressed state (Tamil Nadu, Andhra Pradesh, Rajasthan) adopts a similar GWR-via-treated-sewage model, Denta's domain expertise gives it a credible bid for first-mover replication — the key catalyst to watch for re-rating.
+
 **Jash Engineering (NSE: JASH)**
 - Stage in chain: Equipment manufacturing — flow control gates, penstocks, screens, valves; installed at every water intake, WTP, STP, irrigation dam, and hydropower project
 - What makes them interesting: Jash is the **only listed Indian manufacturer of water control gates and flow control equipment** — a niche that every water infrastructure project requires but that no domestic company of scale was serving until Jash emerged. Its product portfolio (sluice gates, stop logs, penstocks, butterfly valves, bar screens, drum screens, actuators) is capital equipment that gets specified into WTP/STP designs at the engineering stage and has near-zero substitutability once specified. This creates strong repeat customer relationships and order visibility. The international skew of its order book (₹627 Cr of ₹888 Cr total, i.e., 71%) — with the USA contributing ₹375 Cr — demonstrates genuine product quality that can compete globally. The UK acquisition (Penstocks UK, April 2026) adds European distribution capability and local content credentials for UK/EU infrastructure bids. FY26 revenue guidance of ₹875 Cr for FY26-27 implies 19% growth from FY26's ₹736 Cr — driven by international order execution. EBITDA margins for specialised water control equipment are structurally 18–25%+, materially above the 8–13% earned by EPC players.
@@ -647,7 +665,7 @@ A second non-obvious insight: **the real competitive threat is not domestic EPC 
 
 ---
 
-*Analysis prepared July 2026. Sources: Va Tech Wabag FY26 Investor Meet (InvestyWise / Whalesbook); Kirloskar Brothers FY26 Results (TradingView / Whalesbook); Welspun Enterprises 9M FY26 Results; Ion Exchange India 9M FY26 Results; Enviro Infra Engineers FY26 Results (RealtyNMore); EMS Limited company filings; Praj Industries Q4 FY25 Results; Jal Jeevan Mission progress (ejalshakti.gov.in); Budget 2026-27 Jal Shakti allocation (PRS India demand for grants analysis; indiabudget.gov.in); AMRUT 2.0 progress reports (MoHUA, August 2025); Namami Gange II progress (NMCG / Indian Infrastructure June 2026); Frost & Sullivan India Water Sector Budget 2026-27 analysis; Down to Earth Budget 2026 water sector coverage; India Water Portal Budget 2026-27 analysis.*
+*Analysis prepared July 2026 (Denta Water addition: July 2026). Sources: Va Tech Wabag FY26 Investor Meet (InvestyWise / Whalesbook); Kirloskar Brothers FY26 Results (TradingView / Whalesbook); Welspun Enterprises 9M FY26 Results; Ion Exchange India 9M FY26 Results; Enviro Infra Engineers FY26 Results (RealtyNMore); EMS Limited company filings; Praj Industries Q4 FY25 Results; Denta Water and Infra Solutions FY26 Results and company filings (Screener.in, NSE, Business India, Chittorgarh IPO note); Jal Jeevan Mission progress (ejalshakti.gov.in); Budget 2026-27 Jal Shakti allocation (PRS India demand for grants analysis; indiabudget.gov.in); AMRUT 2.0 progress reports (MoHUA, August 2025); Namami Gange II progress (NMCG / Indian Infrastructure June 2026); Frost & Sullivan India Water Sector Budget 2026-27 analysis; Down to Earth Budget 2026 water sector coverage; India Water Portal Budget 2026-27 analysis.*
 
 ---
 
