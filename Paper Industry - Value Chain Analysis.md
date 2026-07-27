@@ -285,6 +285,16 @@ The most structurally attractive stage right now is **the fibre-advantaged, inte
 - **Watch factor:** Wood cost (farm-forestry), W&P realisation, capex discipline.
 - **Investment angle:** The market applies a commodity-mill multiple to what is effectively the sector's lowest-cost, best-balance-sheet operator. In a capital-cycle trough, the disciplined survivor with net cash is exactly what compounds as weaker mills close — an under-followed quality name whose durability isn't reflected in a mid-teens multiple.
 
+**NR Agarwal Industries (NSE: NRAIL)**
+- **Stage in chain:** Recycled duplex board + recycled W&P (100% deinked recycled furnish)
+- **Cap bucket:** Small — Mkt cap ~₹826 Cr
+- **Analyst coverage:** Under-researched (0–3 analysts — high discovery value)
+- **What makes them interesting:** One of India's largest *pure* recycled-paper players — grey-back and white-back duplex board (for FMCG cartons/packaging) plus recycled writing & printing paper, made entirely from de-inked waste paper at its Vapi (Gujarat) cluster. This positions it on the *growing* packaging-board end of the chain (e-commerce, plastic-substitution, FMCG cartons) rather than declining W&P. It is a classic **spread business** — profitability is the gap between waste-paper input cost and board realisation — which makes earnings highly operationally geared to the cycle. FY26 proved this: PAT surged ~149% to ₹44.2 Cr on a 29% revenue jump to ₹2,145 Cr as the spread recovered off a depressed FY25 base. Management is also rationalising — discontinuing small sub-optimal units to "sweat" large capacities, and has approval to expand Vapi duplex board 25% (8,000 → 10,000 MT/month).
+- **Key financials:** FY26 revenue ~₹2,145 Cr (+29% YoY); PAT ~₹44.2 Cr (+149%); PBT ~₹65 Cr (+308%); net margin thin at ~2% (recovering from ~1% in FY25 — the spread signature); P/E ~17–19x; ROCE ~8.5%; ICRA A-/A2+ rating; promoter holding 74.3%; final dividend ₹2/share (20%). Note Q4 FY26 showed record sales but *sequential* margin contraction — the spread is already tightening again.
+- **PLI beneficiary:** No
+- **Watch factor:** Waste-paper-to-board **spread** (the single earnings driver); Vapi capacity ramp to 10,000 MT/month; and whether import competition caps duplex-board realisations — watch the sequential margin trend that turned down in Q4 FY26.
+- **Investment angle:** The market prices NR Agarwal as a thin-margin commodity converter, and on trailing numbers that's fair. The mispricing case is operational leverage plus mix: it sits on the packaging-board side (structural demand from e-commerce + plastic substitution), the FY25→FY26 spread recovery showed how violently PAT moves off a low base, and the 25% Vapi expansion adds volume into that demand. The bear case is equally real and must be respected — this is a *spread cyclical*, not a compounder; the Q4 FY26 sequential margin dip is a live warning that the very spread which drove the 149% jump can reverse just as fast. Best owned when the waste-paper spread is *widening*, not after it has already re-rated the stock.
+
 ---
 
 ## 7. Strategic insight & investment angles
@@ -317,6 +327,7 @@ The consensus reads "Indian paper" as one cyclical, import-threatened commodity 
 - **Pakka** — Valued as a small specialty mill; is actually an under-priced option on India's plastic-substitution wave, with capacity doubling that could inflect earnings if moulded-fibre margins scale.
 - **West Coast Paper** — Depressed on spot W&P margins; market overlooks the low-debt integrated cost position and the embedded Andhra Paper stake (sum-of-parts).
 - **Seshasayee Paper** — Commodity-mill multiple on the sector's lowest-cost, net-cash, best-governed operator — the disciplined survivor that compounds as weaker mills close in the capital-cycle trough.
+- **NR Agarwal** — A recycled-board spread cyclical on the growing packaging side; FY26's 149% PAT jump showed the operating leverage, and the 25% Vapi expansion adds volume — but the Q4 FY26 sequential margin dip warns the spread is already tightening, so it's a "buy when the spread is widening" name, not a hold-through-cycle compounder.
 
 ---
 
